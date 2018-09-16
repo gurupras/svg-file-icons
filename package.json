@@ -1,0 +1,78 @@
+{
+  "name": "@gurupras/svg-file-icons",
+  "version": "0.0.1",
+  "description": "SVG icons drawn from the same sources as Atom",
+  "main": "./dist/bundle.js",
+  "scripts": {
+    "extract": "node -r esm src/compile-icons.js",
+    "build": "webpack",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurupras/node-svg-file-icons.git"
+  },
+  "files": [
+    "atom/",
+    "dist/",
+    "src/",
+    "tests/",
+    ".babelrc",
+    ".eslintrc.js",
+    "*.js",
+    "LICENSE.md",
+    "README.md",
+    "*.json"
+  ],
+  "keywords": [
+    "svg",
+    "icons",
+    "file-icons",
+    "fontawesome",
+    "mfixx",
+    "devopicons",
+    "devicons",
+    "mfizz",
+    "octicons"
+  ],
+  "author": "Guru Prasad Srinivasa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gurupras/node-svg-file-icons/issues"
+  },
+  "homepage": "https://github.com/gurupras/node-svg-file-icons#readme",
+  "jest": {
+    "moduleNameMapper": {
+      "@/(.*)$": "<rootDir>/src/$1"
+    },
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.1",
+    "@babel/preset-env": "^7.0.0",
+    "@gurupras/font-blast": "^0.7.2",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.2",
+    "coffee-script": "^1.12.7",
+    "eslint": "^5.6.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^21.22.0",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "esm": "^3.0.82",
+    "jest": "^23.6.0",
+    "less": "^3.8.1",
+    "regenerator-runtime": "^0.12.1",
+    "rimraf": "^2.6.2",
+    "ttf2svg": "^1.2.0",
+    "webpack": "^4.19.0",
+    "webpack-cli": "^3.1.0",
+    "woff2": "^0.2.2",
+    "xml2js": "^0.4.19"
+  }
+}
