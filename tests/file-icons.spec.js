@@ -1,12 +1,12 @@
-import FileIcons from '@/index'
+import { FileIcons, library } from '@/index'
 
 let fileIcons
-beforeAll(async () => {
+beforeEach(async () => {
   fileIcons = new FileIcons()
 })
 
 describe('FileIcons', async () => {
-  test('Fetch icon', async () => {
+  test('getIcon', async () => {
     const data = {
       'file.py': 'python-icon',
       '/long/path/readme.txt': 'book-icon',
@@ -24,5 +24,27 @@ describe('FileIcons', async () => {
         expect(prefixedIconName).toEqual(expected)
       }
     }
+  })
+
+  test('getIconByCSSClass', async () => {
+    await library.registerIconSet('octicons')
+    const iconData = fileIcons.getIconByCSSClass('text-icon')
+    expect(iconData.svg).toBeTruthy()
+  })
+
+  test('registerLESSIcon', async () => {
+    await library.registerIconSet('octicons')
+    const lessStr = `.dummy-icon:before       { font-family: octicons; font-size: 16px; top: 1px; content: "\\f016"; }`
+    await fileIcons.registerLESSIcon(lessStr)
+    const iconData = fileIcons.getIconByCSSClass('dummy-icon')
+    expect(iconData.code).toEqual('f016')
+    expect(iconData.svg).toBeTruthy()
+  })
+
+  test('addFolderIcon', async () => {
+    await fileIcons.addFolderIcon()
+    const iconData = fileIcons.getIconByCSSClass('folder-icon', 'octicons')
+    expect(iconData.code).toEqual('f016')
+    expect(iconData.svg).toBeTruthy()
   })
 })
