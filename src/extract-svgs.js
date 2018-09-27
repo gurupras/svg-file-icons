@@ -6,15 +6,15 @@ import ttf2svg from 'ttf2svg'
 import fontBlast from '@gurupras/font-blast'
 import { atomRoot, svgDir } from './utils'
 
-const fontPaths = {
-  'devicons': path.join(atomRoot, 'fonts', 'devopicons.woff2'),
-  'file-icons': path.join(atomRoot, 'fonts', 'file-icons.woff2'),
-  'fontawesome': path.join(atomRoot, 'fonts', 'fontawesome.woff2'),
-  'mfizz': path.join(atomRoot, 'fonts', 'mfixx.woff2'),
-  'octicons': path.join(atomRoot, 'fonts', 'octicons.woff2')
-}
-
 async function convertAtomWoffToSVG () {
+  const fontPaths = {
+    'devicons': path.join(atomRoot, 'fonts', 'devopicons.woff2'),
+    'file-icons': path.join(atomRoot, 'fonts', 'file-icons.woff2'),
+    'fontawesome': path.join(atomRoot, 'fonts', 'fontawesome.woff2'),
+    'mfizz': path.join(atomRoot, 'fonts', 'mfixx.woff2'),
+    'octicons': path.join(atomRoot, 'fonts', 'octicons.woff2')
+  }
+
   const outdir = svgDir
   if (fs.existsSync(outdir)) {
     rimraf.sync(outdir)

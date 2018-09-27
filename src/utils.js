@@ -4,6 +4,7 @@ import xml2js from 'xml2js'
 const root = path.join(__dirname, '..')
 const atomRoot = path.join(root, 'atom')
 const svgDir = path.join(root, 'svgs')
+const compiledJsDir = path.join(root, 'compiled-js')
 
 function parseXML (xml) {
   if (xml instanceof Buffer) {
@@ -26,5 +27,6 @@ export {
   root,
   atomRoot,
   svgDir,
+  compiledJsDir,
   parseXML
 }
