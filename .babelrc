@@ -1,0 +1,12 @@
+{
+  "presets": ["@babel/preset-env"],
+  "plugins": ["@babel/plugin-syntax-dynamic-import"],
+  "sourceMap": "inline",
+  "env": {
+    "test": {
+      "plugins": [
+        "babel-plugin-dynamic-import-node"
+      ]
+    }
+  }
+}
