@@ -1,0 +1,18 @@
+[submodule "file-icons/source"]
+	path = font-sources/source
+	url = https://github.com/file-icons/source
+[submodule "file-icons/devopicons"]
+	path = font-sources/devopicons
+	url = https://github.com/file-icons/devopicons
+[submodule "file-icons/mfixx"]
+	path = font-sources/mfixx
+	url = https://github.com/file-icons/mfixx
+[submodule "octicons"]
+	path = font-sources/octicons
+	url = https://github.com/primer/octicons
+[submodule "font-awesome"]
+	path = font-sources/font-awesome
+	url = https://github.com/FortAwesome/font-awesome
+[submodule "file-icons/atom"]
+	path = font-sources/atom
+	url = https://github.com/file-icons/atom
