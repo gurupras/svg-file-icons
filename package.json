@@ -1,0 +1,88 @@
+{
+  "name": "@gurupras/svg-file-icons",
+  "version": "0.0.1",
+  "description": "SVG icons drawn from the same sources as Atom",
+  "main": "./dist/bundle.js",
+  "scripts": {
+    "setup-submodules": "git submodule init && git submodule update",
+    "build": "node -r esm ./src/build/webpack-build",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurupras/node-svg-file-icons.git"
+  },
+  "files": [
+    "atom/",
+    "dist/",
+    "src/",
+    "tests/",
+    ".babelrc",
+    ".eslintrc.js",
+    "*.js",
+    "LICENSE.md",
+    "README.md",
+    "*.json"
+  ],
+  "keywords": [
+    "svg",
+    "icons",
+    "file-icons",
+    "fontawesome",
+    "mfixx",
+    "devopicons",
+    "devicons",
+    "mfizz",
+    "octicons"
+  ],
+  "author": "Guru Prasad Srinivasa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gurupras/node-svg-file-icons/issues"
+  },
+  "homepage": "https://github.com/gurupras/node-svg-file-icons#readme",
+  "jest": {
+    "moduleNameMapper": {
+      "@/(.*)$": "<rootDir>/src/$1"
+    },
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    },
+    "testPathIgnorePatterns": [
+      "font-sources/*"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/plugin-syntax-dynamic-import": "^7.2.0",
+    "@babel/preset-env": "^7.2.3",
+    "@gurupras/font-blast": "^0.7.2",
+    "babel-core": "^7.0.0-bridge.0",
+    "babel-eslint": "^10.0.1",
+    "babel-jest": "^23.6.0",
+    "babel-loader": "^8.0.4",
+    "babel-plugin-dynamic-import-node": "^2.2.0",
+    "coffee-script": "^1.12.7",
+    "eslint": "^5.11.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^21.27.2",
+    "eslint-plugin-node": "^7.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "esm": "^3.0.84",
+    "jest": "^23.6.0",
+    "less": "^3.9.0",
+    "lodash": "^4.17.11",
+    "mkdirp": "^0.5.1",
+    "regenerator-runtime": "^0.12.1",
+    "rimraf": "^2.6.3",
+    "ttf2svg": "^1.2.0",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.0",
+    "woff2": "^0.2.2",
+    "xml2js": "^0.4.19"
+  },
+  "dependencies": {
+  }
+}
