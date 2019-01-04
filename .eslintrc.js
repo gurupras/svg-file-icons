@@ -3,5 +3,9 @@ module.exports = {
     "plugins": ["jest"],
     "env": {
       "jest/globals": true
+    },
+    "parser": "babel-eslint",
+    "parserOptions": {
+      "allowImportExportEverywhere": true
     }
 };
