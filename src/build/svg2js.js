@@ -6,10 +6,7 @@ import SVGIconData from '../svg-icon-data'
 import mkdirp from 'mkdirp'
 
 function stringifySVGIcon (icon) {
-  return `'use strict'
-const svg = ${JSON.stringify(icon, null, 2).replace(/"/g, `'`)}
-export default svg
-`
+  return JSON.stringify(icon, null, 2)
 }
 
 async function convertAllSVGToJS () {
@@ -85,9 +82,9 @@ async function convertAllSVGToJS () {
       if (!metadata) {
         console.warn(`Did not find icon: ${basename} code=${codeInt} in ${icomoonPath}`)
       } else {
-        const filePath = path.join(individualFilesPath, `${name}.js`)
+        const filePath = path.join(individualFilesPath, `${name}.json`)
         fs.writeFileSync(filePath, stringifySVGIcon(svgIcon))
-        indexJsIconContent.push(`case '${name}': return import(/*webpackChunkName:"${font}_${name}"*/ './js/${name}')`)
+        indexJsIconContent.push(`case '${name}': return import(/*webpackChunkName:"${font}_${name}"*/ './js/${name}.json')`)
       }
     }
     if (indexJsIconContent.length > 0) {
