@@ -84,7 +84,7 @@ async function convertAllSVGToJS () {
       } else {
         const filePath = path.join(individualFilesPath, `${name}.json`)
         fs.writeFileSync(filePath, stringifySVGIcon(svgIcon))
-        indexJsIconContent.push(`case '${name}': return import(/*webpackChunkName:"${font}_${name}"*/ './js/${name}.json')`)
+        indexJsIconContent.push(`case '${name}': return import(/*webpackChunkName:"${font}/${name}"*/ './js/${name}.json')`)
       }
     }
     if (indexJsIconContent.length > 0) {
