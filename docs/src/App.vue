@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="container-fluid">
+  <main id="app" class="container-fluid">
     <div class="row">
       <div class="col s12 offset-m2 m8 offset-l3 l6">
         <div class="row">
@@ -70,7 +70,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </main>
 </template>
 
 <script>
@@ -124,6 +124,16 @@ export default {
 @import './styles/app';
 @import '../node_modules/materialize-css/sass/materialize';
 
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
 @media screen and (max-width: 366px) {
   h1 {
     font-size: 4rem;
@@ -136,11 +146,6 @@ export default {
 .tagline {
   padding-left: 14em;
   font-size: 0.8em
-}
-
-#app {
-  // text-align: center;
-  color: #2c3e50;
 }
 
 ul li {
@@ -159,4 +164,6 @@ ul li {
 
 .svg-container svg {
 }
+
+footer {}
 </style>

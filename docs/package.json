@@ -42,6 +42,9 @@
     "rules": {},
     "parserOptions": {
       "parser": "babel-eslint"
+    },
+    "globals": {
+      "__COMMIT_HASH__": true
     }
   },
   "postcss": {
