@@ -14,7 +14,6 @@
     "url": "git+https://github.com/gurupras/node-svg-file-icons.git"
   },
   "files": [
-    "atom/",
     "dist/",
     "src/",
     "tests/",
