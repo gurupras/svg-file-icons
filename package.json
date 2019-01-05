@@ -49,7 +49,8 @@
       "^.+\\.jsx?$": "babel-jest"
     },
     "testPathIgnorePatterns": [
-      "font-sources/*"
+      "font-sources/*",
+      "docs/*"
     ]
   },
   "devDependencies": {

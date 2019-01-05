@@ -19,7 +19,7 @@ async function parseAtomLessIcons () {
   return result
 }
 
-async function parseAtomLessColours (backgroundColour = '#000') {
+async function parseAtomLessColours (backgroundColour = '#282c34') {
   const coloursLessPath = path.join(atomRoot, 'styles', 'colours.less')
   const coloursLess = fs.readFileSync(coloursLessPath, 'utf-8')
   // Remove first line import
@@ -60,7 +60,7 @@ function parseAtomIconDB () {
   return icondb
 }
 
-async function buildIconDB (lessData, svgIcons, rawIconDB, writeToFile = true) {
+async function buildIconDB (lessData, svgIcons, rawIconDB, writeToFile = false) {
   if (!lessData) {
     lessData = await parseAtomLess()
   }

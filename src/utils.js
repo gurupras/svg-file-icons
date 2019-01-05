@@ -71,10 +71,10 @@ async function loadAllSVGs () {
           const icomoonJson = JSON.parse(fs.readFileSync(icomoonPath, 'utf-8'))
           const { icons } = icomoonJson
           icons.forEach(icon => {
-            const { properties = {} } = icon
+            const { properties = {}, tags = [] } = icon
             const { name, code: iconCode } = properties
             const code = icon.defaultCode || iconCode
-            icomoon[code] = name
+            icomoon[code] = name || tags[0]
           })
         } catch (e) {
           console.error(`Failed to read file: ${icomoonPath}`)

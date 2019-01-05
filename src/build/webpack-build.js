@@ -14,7 +14,7 @@ convertAtomWoffToSVG().then(() => {
   process.stdout.write(' done\nConverting all SVGs to JS ...')
   convertAllSVGToJS().then(() => {
     process.stdout.write(' done\nBuilding iconDB from Atom ...')
-    buildIconDB().then(() => {
+    buildIconDB(null, null, null, true).then(() => {
       process.stdout.write(' done\nRunning webpack ...')
       const compiler = webpack(webpackConfig)
       compiler.run((err, stats) => {
