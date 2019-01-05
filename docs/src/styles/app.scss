@@ -1,0 +1,38 @@
+@import '../node_modules/materialize-css/sass/components/color-variables';
+//$primary-color: color('light-blue', 'darken-2') !default;
+//$secondary-color: color('lime', 'darken-4') !default;
+
+$goldenrod: #db9501 !default;
+$bronze: #c05805 !default;
+$bark: #2e2300 !default;
+$electricblue: #4897d8 !default;
+$watermelon: #fa6e59 !default;
+$canteloupe: #f8a055 !default;
+$cream: #ebdcb2 !default;
+$cinnamon: #662e1c !default;
+$caramel: #c9a66b !default;
+$cayenne: #af4425 !default;
+$grey-background: #efeeee !default;
+
+$pink-we-like: #ca357f;
+$second-pink: #993366;
+$lighter-pink: #EE85B5;
+$lighter-pink-1: #F08CAE;
+
+$lavender: #996699;
+$dark-lavender: darken($lavender, 20);
+
+$purple-1: #4D2D52;
+$blue-we-like: #7C90DB;
+
+$blue-we-like-secondary: #6279B8;
+$green-we-like-secondary: #869D7A;
+
+$mustard: darken(#ffc458, 20);
+
+$primary-color: $dark-lavender;
+$secondary-color: darken($mustard, 15);
+
+body {
+   // background-color: #ebebeb;
+}

@@ -6,6 +6,7 @@
   "scripts": {
     "setup-submodules": "git submodule init && git submodule update",
     "build": "node -r esm ./src/build/webpack-build",
+    "ghpages": "./docs/deploy.sh",
     "test": "jest"
   },
   "repository": {
