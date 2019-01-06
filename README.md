@@ -62,7 +62,7 @@ create a new rule that returns Octicons' `file-binary`
 </span> icon which seems appropriate for this file-type.
 
 ```js
-// The rule format is [ match-rule, font-family, icon-name, priority (higher is better), colour (if any) ]
+// The rule format is [ match-rule, font-family, icon-name, priority (high value to override), colour (if any) ]
 const ruleIndex = fileIcons.addRule([
   /.*\.out$/, // match-rule: Any file ending with '.out',
   'octicons', // font-family
