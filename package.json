@@ -2,7 +2,7 @@
   "name": "@gurupras/svg-file-icons",
   "version": "0.0.1",
   "description": "SVG icons drawn from the same sources as Atom",
-  "main": "./dist/bundle.js",
+  "module": "./src/file-icons.js",
   "scripts": {
     "setup-submodules": "git submodule init && git submodule update",
     "build": "node -r esm ./src/build/webpack-build",
@@ -14,8 +14,8 @@
     "url": "git+https://github.com/gurupras/node-svg-file-icons.git"
   },
   "files": [
-    "dist/",
     "src/",
+    "compiled-js/",
     "tests/",
     ".babelrc",
     ".eslintrc.js",
@@ -84,6 +84,5 @@
     "woff2": "^0.2.2",
     "xml2js": "^0.4.19"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
