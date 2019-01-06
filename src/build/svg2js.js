@@ -46,6 +46,7 @@ async function convertAllSVGToJS () {
         async loadIcon (name) {
           switch (name) {
             {{icons}}
+            default: throw new Error('Unimplemented icon: font=${font} icon=' + name)
           }
         }
       }
