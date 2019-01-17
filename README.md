@@ -71,8 +71,7 @@ While these rules cover common use-cases, you may encounter that they miss out o
 
 For example, if you were to request an icon for file `a.out`, you would end up with the default icon.
 However, we can do better by adding a new rule that returns the icon we want. In the following example, we will
-create a new rule that returns Octicons' `file-binary` <img src="./file-binary.png" alt="Binary file icon"/>
-</span> icon which seems appropriate for this file-type.
+create a new rule that returns Octicons' `file-binary` <img src="https://gurupras.github.io/svg-file-icons/file-binary.png" alt="binary-file icon"/> icon which seems appropriate for this file-type.
 
 ```js
 /**
@@ -115,3 +114,5 @@ Other than the obvious fact that this library uses the UK spelling, currently, t
 
 ### 1.3.2\. Icon Sizes
 The sizes of icons don't all match. Atom's stylesheet has specialized handling of several icons which isn't handled by the library. This is in the pipeline however, and should be fixed soon.
+
+

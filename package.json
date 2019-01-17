@@ -9,7 +9,7 @@
     "ghpages": "NODE_ENV=production ./docs/deploy.sh",
     "readme": "node node_modules/markdown-pp-js/markdownpp.js README.mdpp -o README.md",
     "test": "jest",
-    "publish": "npm publish --access public"
+    "upload": "npm publish --access public"
   },
   "repository": {
     "type": "git",
