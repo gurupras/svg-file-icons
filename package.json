@@ -7,7 +7,7 @@
     "setup-submodules": "git submodule init && git submodule update",
     "build": "node -r esm ./src/build/webpack-build",
     "ghpages": "NODE_ENV=production ./docs/deploy.sh",
-    "readme": "node node_modules/markdown-pp-js/markdownpp.js README.mdpp -o README.md",
+    "readme": "node node_modules/markdown-pp-js/markdownpp.js README.mdpp -o README.md -e toc,latexrender,ref,youtubeembed",
     "test": "jest",
     "upload": "npm publish --access public"
   },
