@@ -1,6 +1,6 @@
 {
   "name": "@gurupras/svg-file-icons",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "SVG icons drawn from the same sources as Atom",
   "module": "./src/file-icons.js",
   "scripts": {
