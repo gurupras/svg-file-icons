@@ -21,6 +21,7 @@
     "*.js",
     "LICENSE.md",
     "README.md",
+    "file-binary.png",
     "package.json"
   ],
   "keywords": [
