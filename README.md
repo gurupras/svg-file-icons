@@ -1,6 +1,8 @@
 # svg-file-icons
 File icons for your next JS project
 
+[Demo](https://gurupras.github.io/svg-file-icons)
+
 ## What is it?
 
 svg-file-icons takes all the icons you know and love and makes them available through a simple API
