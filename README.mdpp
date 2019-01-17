@@ -1,0 +1,33 @@
+# svg-file-icons
+File icons for your next JS project
+
+[Demo](https://gurupras.github.io/svg-file-icons)
+
+## What is it?
+
+svg-file-icons takes all the icons you know and love and makes them available through a simple API
+
+Currently, it supports icons from
+  *   [FontAwesome](https://github.com/fortawesome/font-awesome)
+  *   [Octicons](https://github.com/primer/octicons)
+  *   [Devicons](https://github.com/file-icons/devopicons)
+  *   [Mfizz](https://github.com/file-icons/mfixx)
+  *   [Atom](https://github.com/file-icons/source)
+
+  You can import just the icons you need for your project from any of the aforementioned sources
+  The library also includes Atom's icon database for quick lookups and
+  <span style="display: inline-block; font-weight: bold; font-size: 1.2em;">
+  <span style="color: rgb(230, 25, 25);">c</span><span style="color: rgb(230, 200, 25);">o</span><span style="color: rgb(84, 230, 25);">l</span><span style="color: rgb(25, 230, 142);">o</span><span style="color: rgb(25, 142, 230);">u</span><span style="color: rgb(84, 25, 230);">r</span><span style="color: rgb(230, 25, 200);">s</span>
+  </span>!
+
+## Getting Started
+
+### Installation
+
+    npm install @gurupras/svg-file-icons
+
+### Usage
+!INCLUDE "usage.md"
+
+## Caveats
+!INCLUDE "caveats.md"

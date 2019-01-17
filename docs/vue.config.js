@@ -4,7 +4,7 @@ const commitHash = require('child_process')
   .toString()
 
 module.exports = {
-  baseUrl: process.env.NODE_ENV === 'production' ? '/svg-file-icons/' : '/',
+  publicPath: process.env.NODE_ENV === 'production' ? '/svg-file-icons/' : '/',
   configureWebpack: {
     plugins: [
       new webpack.DefinePlugin({

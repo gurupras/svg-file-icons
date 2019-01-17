@@ -6,7 +6,8 @@
   "scripts": {
     "setup-submodules": "git submodule init && git submodule update",
     "build": "node -r esm ./src/build/webpack-build",
-    "ghpages": "./docs/deploy.sh",
+    "ghpages": "NODE_ENV=production ./docs/deploy.sh",
+    "readme": "node node_modules/markdown-pp-js/markdownpp.js README.mdpp -o README.md",
     "test": "jest"
   },
   "repository": {
@@ -75,6 +76,7 @@
     "jest": "^23.6.0",
     "less": "^3.9.0",
     "lodash": "^4.17.11",
+    "markdown-pp-js": "^1.0.0",
     "mkdirp": "^0.5.1",
     "regenerator-runtime": "^0.12.1",
     "rimraf": "^2.6.3",

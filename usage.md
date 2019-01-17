@@ -1,42 +1,3 @@
-<a name="svg-file-icons"></a>
-
-# 1\. svg-file-icons
-File icons for your next JS project
-
-[Demo](https://gurupras.github.io/svg-file-icons)
-
-<a name="whatisit?"></a>
-
-## 1.1\. What is it?
-
-svg-file-icons takes all the icons you know and love and makes them available through a simple API
-
-Currently, it supports icons from
-  *   [FontAwesome](https://github.com/fortawesome/font-awesome)
-  *   [Octicons](https://github.com/primer/octicons)
-  *   [Devicons](https://github.com/file-icons/devopicons)
-  *   [Mfizz](https://github.com/file-icons/mfixx)
-  *   [Atom](https://github.com/file-icons/source)
-
-  You can import just the icons you need for your project from any of the aforementioned sources
-  The library also includes Atom's icon database for quick lookups and
-  <span style="display: inline-block; font-weight: bold; font-size: 1.2em;">
-  <span style="color: rgb(230, 25, 25);">c</span><span style="color: rgb(230, 200, 25);">o</span><span style="color: rgb(84, 230, 25);">l</span><span style="color: rgb(25, 230, 142);">o</span><span style="color: rgb(25, 142, 230);">u</span><span style="color: rgb(84, 25, 230);">r</span><span style="color: rgb(230, 25, 200);">s</span>
-  </span>!
-
-<a name="gettingstarted"></a>
-
-## 1.2\. Getting Started
-
-<a name="installation"></a>
-
-### 1.2.1\. Installation
-
-    npm install @gurupras/svg-file-icons
-
-<a name="usage"></a>
-
-### 1.2.2\. Usage
 Once installed, you can then use it in your code as follows:
 
 ```js
@@ -63,9 +24,7 @@ svg.innerHTML = `<path d="${icon.path}"/>`
 body.appendChild(svg)
 ```
 
-<a name="rules"></a>
-
-### 1.2.3\. Rules
+### Rules
 Icon types are actually matched by Regular Expression rules defined in Atom's icon database.
 While these rules cover common use-cases, you may encounter that they miss out on a few.
 
@@ -101,20 +60,3 @@ The above rule can be removed by running
 ```js
 fileIcons.removeRule(ruleIndex)
 ```
-
-
-
-<a name="caveats"></a>
-
-## 1.3\. Caveats
-<a name="colours"></a>
-
-### 1.3.1\. Colours
-Other than the obvious fact that this library uses the UK spelling, currently, there is no easy way to change the colours. The colours are obtained from atom's icon database and baked into the library.
-
-<a name="iconsizes"></a>
-
-### 1.3.2\. Icon Sizes
-The sizes of icons don't all match. Atom's stylesheet has specialized handling of several icons which isn't handled by the library. This is in the pipeline however, and should be fixed soon.
-
-

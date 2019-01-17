@@ -36,3 +36,7 @@ $secondary-color: darken($mustard, 15);
 body {
    // background-color: #ebebeb;
 }
+
+pre[class*="language-"] {
+  background: #f6f8fa;
+}
