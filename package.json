@@ -1,6 +1,6 @@
 {
   "name": "@gurupras/svg-file-icons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "SVG icons drawn from the same sources as Atom",
   "module": "./src/file-icons.js",
   "scripts": {
@@ -8,7 +8,8 @@
     "build": "node -r esm ./src/build/webpack-build",
     "ghpages": "NODE_ENV=production ./docs/deploy.sh",
     "readme": "node node_modules/markdown-pp-js/markdownpp.js README.mdpp -o README.md",
-    "test": "jest"
+    "test": "jest",
+    "publish": "npm publish --access public"
   },
   "repository": {
     "type": "git",
@@ -17,13 +18,10 @@
   "files": [
     "src/",
     "compiled-js/",
-    "tests/",
-    ".babelrc",
-    ".eslintrc.js",
     "*.js",
     "LICENSE.md",
     "README.md",
-    "*.json"
+    "package.json"
   ],
   "keywords": [
     "svg",
