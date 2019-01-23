@@ -53,6 +53,7 @@ async function convertAllSVGToJS () {
       export default data
       `
     const indexJsIconContent = []
+    const fontIcons = []
 
     const files = fs.readdirSync(svgPath)
     for (const file of files) {
@@ -87,6 +88,7 @@ async function convertAllSVGToJS () {
         fs.writeFileSync(filePath, stringifySVGIcon(svgIcon))
         indexJsIconContent.push(`case '${name}': return import(/*webpackChunkName:"${font}/${name}"*/ './js/${name}.json')`)
       }
+      fontIcons.push(name)
     }
     if (indexJsIconContent.length > 0) {
       indexJsContent = indexJsContent.replace(/{{icons}}/, indexJsIconContent.join('\n'))
@@ -94,7 +96,9 @@ async function convertAllSVGToJS () {
       fs.writeFileSync(indexFile, indexJsContent)
       lint(indexFile)
     }
+    fs.writeFileSync(path.join(compiledJsFontPath, 'icons.json'), JSON.stringify(fontIcons))
   }
+  fs.writeFileSync(path.join(compiledJsDir, 'fonts.json'), JSON.stringify(Object.keys(svgPaths)))
 }
 
 export {
