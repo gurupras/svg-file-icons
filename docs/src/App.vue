@@ -80,5 +80,9 @@ h3 {
   font-size: 0.8em
 }
 
-footer {}
+footer {
+  a {
+    color: lighten($secondary-color, 20);
+  }
+}
 </style>
