@@ -34,36 +34,40 @@ class FileIcons {
 
   async getFileIcon (filename) {
     const matchedEntries = this.getMatchingEntries(filename)
-    matchedEntries.sort((a, b) => b[3] - a[3])
-    const entry = matchedEntries[0]
     let importIcon
-    if (entry) {
-      const [ /* rule */, font, icon, /* priority */, colour ] = entry // eslint-disable-line
-      let fontFamily
-      switch (font) {
-        case 'devopicons':
-          fontFamily = devopicons
-          break
-        case 'file-icons':
-          fontFamily = fileIcons
-          break
-        case 'font-awesome':
-          fontFamily = fontAwesome
-          break
-        case 'mfixx':
-          fontFamily = mfixx
-          break
-        case 'octicons':
-          fontFamily = octicons
-          break
-        default:
-          throw new Error(`Unimplemented font family: ${font}`)
-      }
-      importIcon = await fontFamily.loadIcon(icon)
-      if (importIcon) {
-        const { default: svgIcon } = importIcon
-        svgIcon.colour = colour
-        return svgIcon
+    if (matchedEntries.length > 0) {
+      const maxPriorityEntry = matchedEntries.reduce((a, b) => a[3] > b[3] ? a : b)
+      const maxPriority = maxPriorityEntry[3]
+      matchedEntries.filter(x => x[3] === maxPriority)
+      const entry = matchedEntries.slice(-1)[0]
+      if (entry) {
+        const [ /* rule */, font, icon, /* priority */, colour ] = entry // eslint-disable-line
+        let fontFamily
+        switch (font) {
+          case 'devopicons':
+            fontFamily = devopicons
+            break
+          case 'file-icons':
+            fontFamily = fileIcons
+            break
+          case 'font-awesome':
+            fontFamily = fontAwesome
+            break
+          case 'mfixx':
+            fontFamily = mfixx
+            break
+          case 'octicons':
+            fontFamily = octicons
+            break
+          default:
+            throw new Error(`Unimplemented font family: ${font}`)
+        }
+        importIcon = await fontFamily.loadIcon(icon)
+        if (importIcon) {
+          const { default: svgIcon } = importIcon
+          svgIcon.colour = colour
+          return svgIcon
+        }
       }
     }
     // Default icon handling
