@@ -119,6 +119,7 @@ async function buildIconDB (lessData, svgIcons, rawIconDB, writeToFile = false) 
   if (writeToFile) {
     const content = [
       `'use strict'`,
+      '/* eslint no-useless-escape: 0 */',
       `const iconDB = [
         ${iconDBContent}
       ]
