@@ -99,13 +99,4 @@ ul li {
     // margin-left: 1.5em;
   }
 }
-
-/deep/ .svg-container {
-  margin-top: 1.5em;
-  width: 32px;
-
-  .svg {
-  }
-}
-
 </style>

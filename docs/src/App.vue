@@ -85,4 +85,12 @@ footer {
     color: lighten($secondary-color, 20);
   }
 }
+
+.svg-container {
+  margin-top: 1.5em;
+  width: 32px;
+
+  .svg {
+  }
+}
 </style>
