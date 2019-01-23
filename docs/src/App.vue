@@ -21,6 +21,7 @@ export default {
   watch: {
     $route () {
       this.$nextTick(window.Prism.highlightAll)
+      this.$nextTick(window.M.updateTextFields)
     }
   },
   mounted () {

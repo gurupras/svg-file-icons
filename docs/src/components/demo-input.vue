@@ -22,11 +22,16 @@ export default {
     label: {
       type: String,
       default: 'Filename'
+    },
+    fileIcons: {
+      type: Object,
+      default () {
+        return new FileIcons()
+      }
     }
   },
   data () {
     return {
-      fileIcons: new FileIcons(),
       filename: ''
     }
   },
@@ -36,6 +41,9 @@ export default {
       if (value.trim() === '') {
         return this.$emit('icon', undefined)
       }
+      this.getIcon()
+    },
+    async getIcon () {
       this.$emit('icon', await this.fileIcons.getFileIcon(this.filename))
     }
   }
