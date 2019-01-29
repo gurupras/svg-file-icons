@@ -23,14 +23,12 @@
                   <div class="col s12 input-field">
                     <div class="regex-container" ref="regexContainer">
                       <div class="before">/</div>
-                      <pre>
-                        <span id="regex" contenteditable="true"
-                            @input="onRegexInput"
-                            @focus="$refs.regexContainer.classList.add('active')"
-                            @blur="$refs.regexContainer.classList.remove('active')"
-                            v-once
-                            v-html="regex">
-                        </span>
+                      <pre id="regex" contenteditable="true"
+                          @input="onRegexInput"
+                          @focus="$refs.regexContainer.classList.add('active')"
+                          @blur="$refs.regexContainer.classList.remove('active')"
+                          v-once
+                          v-html="regex">
                       </pre>
                       <div class="after">/</div>
                     </div>
@@ -235,6 +233,8 @@ const ruleIndex = fileIcons.addRule([
 <style lang="scss" scoped>
 .regex-container {
   width: 100%;
+  display: inline-block;
+  position: relative;
   vertical-align: baseline;
   border: 1px solid;
   border-radius: 3px;
@@ -249,39 +249,30 @@ const ruleIndex = fileIcons.addRule([
   }
 
   #regex {
-    display: inline-flex;
-    flex-grow: 1;
+    display: inline-block;
+    margin: 0 1em;
+    height: 1.2em;
+    vertical-align: middle;
     font-family: monospace;
     line-height: 1em;
-    height: 1em;
-    vertical-align: baseline;
+    width: calc(100% - 2em);
     outline: none;
     overflow-x: hidden;
     overflow-y: hidden;
     white-space: pre-wrap;
     word-wrap: normal;
+    float: left;
   }
   div {
-    display: inline-flex;
-  }
-  pre {
-    display: inline-flex;
-    flex: 1;
-    width: 90%;
-    margin: 0;
-    height: 1.2em;
-    @media screen and (max-width: 1880px) {
-      width: 80%;
-    }
-    @media screen and (max-width: 1180px) {
-      width: 73%;
-    }
-    @media screen and (max-width: 444px) {
-      width: 80%;
-    }
+    display: inline-block;
   }
 
   .before, .after {
+    position: absolute;
+    top: 0;
+    transform: translateY(0.1em);
+    margin-top: auto;
+    vertical-align: top;
     font-family: monospace;
     color: grey;
     margin: 0 4px;
@@ -289,11 +280,16 @@ const ruleIndex = fileIcons.addRule([
       margin: 0 1px;
     }
   }
+  .before {
+    left: 0;
+  }
+  .after {
+    right: 0;
+  }
 }
 label {
   transform: translateY(-1.8em) scale(0.8);
 }
-
 /deep/ #preview {
   margin: 0 8px;
   svg {
