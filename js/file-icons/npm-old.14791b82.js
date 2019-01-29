@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/npm-old"],{faa9:function(h){h.exports={viewBox:"0 0 1048 1024",font:"file-icons",code:"f17b",ref:"npm-old",path:"M522 538h-54V422h54v116m119 58h117V422h57v174l58 2V422h61v174h58V364H641v232m-292 58h119v-57h114V481l2-117H349v290M57 597h120V422h56v174h60V364H57v233m991 57H527v61H293v-60H0V306h1048v348z"}}}]);
+//# sourceMappingURL=npm-old.14791b82.js.map

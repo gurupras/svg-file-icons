@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/microscope"],{a07b:function(o){o.exports={viewBox:"0 0 658 1024",font:"mfixx",code:"f131",ref:"microscope",path:"M25 646l254 147-25 43L0 689l25-43m229 274H32v104h625V920H514q77-77 102-165 26-88 12.5-170.5T568 432q-47-69-114-110l122-213-19-11 30-52-79-46-30 53-20-12-302 522 27 15-38 65 66 38 38-65 26 15 127-219q89 63 115 149 25 87 0 166t-95 135q-69 56-168 58z"}}}]);
+//# sourceMappingURL=microscope.a7c3ab66.js.map

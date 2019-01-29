@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/f260"],{"25bc":function(o){o.exports={viewBox:"0 0 2048 1792",font:"font-awesome",code:"f260",ref:"f260",path:"M736 800l384 384-384 384L64 896l672-672 168 168-96 96-72-72-480 480 480 480 193-193-289-287 96-96m576-576l672 672-672 672-168-168 96-96 72 72 480-480-480-480-193 193 289 287-96 96-384-384 384-384z"}}}]);
+//# sourceMappingURL=f260.41cfbf48.js.map

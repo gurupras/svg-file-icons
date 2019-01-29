@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/crystal"],{"118e":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e902",ref:"crystal",path:"M1022 650l-371 370q-1 1-2.5 1H645L139 886q-1 0-2-1t-2-3L0 377v-3q0-2 1-3L372 1q1-1 2.5-1h3.5l506 136q1 0 2 1t2 3l135 505q1 1 .5 2.5t-1.5 2.5M526 248L30 382q-1 0-1 1t1 2l363 364q1 1 1.5.5t2.5-.5l133-496q-1-3-2.5-4l-1.5-1z"}}}]);
+//# sourceMappingURL=crystal.3a4b9d6e.js.map

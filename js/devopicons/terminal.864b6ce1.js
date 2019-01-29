@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/terminal"],{"5a9a":function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e695",ref:"terminal",path:"M951 73H73q-30 0-51.5 21.5T0 146v732q0 30 21.5 51.5T73 951h878q30 0 51.5-21.5T1024 878V146q0-30-21.5-51.5T951 73M146 585l147-146-147-146 73-74 220 220-220 219-73-73m585 73H439v-73h292v73z"}}}]);
+//# sourceMappingURL=terminal.864b6ce1.js.map

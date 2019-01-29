@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/scala"],{b09a:function(o){o.exports={viewBox:"0 0 594 1024",font:"devopicons",code:"e637",ref:"scala",path:"M0 158l92-11q93-11 203.5-31.5T498 66q93-29 93-66v236l-9 17q-10 16-65 40t-175 51Q222 372 0 394V158m0 315l92-11q93-11 203.5-31.5T498 381q93-29 93-66v236l-9 17q-10 16-65 40t-175 51Q222 687 0 709V473m0 315l92-11q93-11 203.5-31T498 696q93-29 93-66v236l-9 17q-10 16-65 40t-175 51q-120 28-342 50V788z"}}}]);
+//# sourceMappingURL=scala.324b6875.js.map

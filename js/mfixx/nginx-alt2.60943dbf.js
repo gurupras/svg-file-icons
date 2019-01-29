@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/nginx-alt2"],{fb12:function(n){n.exports={viewBox:"0 0 644 1024",font:"mfixx",code:"f13c",ref:"nginx-alt2",path:"M322 0l-82 227-240 6 191 148-68 229 85-57v471h228l-1-472 86 58-68-231 191-146-242-7L322 0m0 128l49 140 150 4-118 91 42 143-122-84-124 84 42-142-118-91 148-4 51-141z"}}}]);
+//# sourceMappingURL=nginx-alt2.60943dbf.js.map

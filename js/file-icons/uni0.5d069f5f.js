@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/uni0"],{a32c:function(n){n.exports={viewBox:"0 0 1282 1024",font:"file-icons",code:"0",ref:"uni0",path:"M0 960z"}}}]);
+//# sourceMappingURL=uni0.5d069f5f.js.map

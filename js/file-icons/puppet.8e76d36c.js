@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/puppet"],{"4fab":function(p){p.exports={viewBox:"0 0 670 1024",font:"file-icons",code:"f0c3",ref:"puppet",path:"M669 666V358H427L306 234V0H0v306h240l121 124v164L240 718H0v306h306V790l122-124h241M206 206H102V101h104v105m0 717H103V821h103v102z"}}}]);
+//# sourceMappingURL=puppet.8e76d36c.js.map

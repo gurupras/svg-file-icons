@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/haskell"],{b233:function(l){l.exports={viewBox:"0 0 1024 1024",font:"mfixx",code:"f121",ref:"haskell",path:"M0 873l241-361L0 151h181l241 361-241 361H0m241 0l241-361-241-361h181l482 722H723L572 648 422 873H241m582-210l-80-121h281v121H823M703 482l-81-121h402v121H703z"}}}]);
+//# sourceMappingURL=haskell.e126e9a1.js.map

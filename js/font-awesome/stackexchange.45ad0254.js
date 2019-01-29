@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/stackexchange"],{c160:function(e){e.exports={viewBox:"0 0 1536 1792",font:"font-awesome",code:"f16c",ref:"stackexchange",path:"M1289 1632H171v-480H11v640h1438v-640h-160v480m-942-524l33-157 783 165-33 156-783-164m103-374l67-146 725 339-67 145-725-338m201-356l102-123 614 513-102 123-614-513M1048 0l477 641-128 96L920 96l128-96M330 1471v-159h800v159H330z"}}}]);
+//# sourceMappingURL=stackexchange.45ad0254.js.map

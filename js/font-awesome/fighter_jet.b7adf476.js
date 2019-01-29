@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/fighter_jet"],{"7c49":function(h){h.exports={viewBox:"0 0 1920 1792",font:"font-awesome",code:"f0fb",ref:"fighter_jet",path:"M1920 960q-1 32-288 96l-352 32-224 64h-64l-293 352h69q26 0 45 4.5t19 11.5q0 7-19 11.5t-45 4.5H448v-32h64v-416H352l-192 224H64l-32-32v-192h32v-32h128v-8L0 1024V896l192-24v-8H64v-32H32V640l32-32h96l192 224h160V416h-64v-32h320q26 0 45 4.5t19 11.5q0 7-19 11.5t-45 4.5h-69l293 352h64l224 64 352 32q128 28 200 52t80 34l8 10z"}}}]);
+//# sourceMappingURL=fighter_jet.b7adf476.js.map

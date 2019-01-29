@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/pypi"],{"0622":function(o){o.exports={viewBox:"0 0 908 1024",font:"file-icons",code:"ea94",ref:"pypi",path:"M908 612l-182 67v213l-362 132V597l360-134V118l184 67v427M554 727q-24 8-40.5 32T497 808q0 25 16.5 36.5T554 848q23-9 40-32.5t17-48.5q0-25-17-37t-40-3m115-302L308 559l1 271-128 46L0 811V384l181-68V104L466 0l203 65v360M430 190q-23 8-39.5 32T374 271q0 25 16.5 36.5T430 311q24-9 40.5-32.5T487 230q0-26-16.5-37.5T430 190z"}}}]);
+//# sourceMappingURL=pypi.5fcda1b5.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/dotnet"],{e5f7:function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e67f",ref:"dotnet",path:"M868 309q-60 3-91.5 32T731 415q-25 80-41.5 133T658 634q-14-43-25-97-12-55-28-104t-41-83q-25-34-65-34H281q-35 0-75 31t-78.5 85Q89 486 55 558 22 631 0 715h100q62-3 93.5-32.5T240 607q11-35 20.5-66t17.5-56q19-28 29-51t28-42h20q14 42 25 96 12 55 28 103.5t41 81.5q25 33 65 33h204q31 0 63-27 33-27 69.5-78.5T929 476q43-74 95-167H868z"}}}]);
+//# sourceMappingURL=dotnet.013c4554.js.map

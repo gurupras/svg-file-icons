@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/lime"],{e86d:function(l){l.exports={viewBox:"0 0 810 1024",font:"file-icons",code:"ea36",ref:"lime",path:"M724 331L414 500V159l310 172M414 886l311-187-311-161v348m330-205V349L432 519l312 162M388 146L74 320l314 177V146M65 345v349l307-176L65 345m323 192L88 710l300 175V537m-36 487v-92L7 733 0 294 447 0v101l358 202 4 410-457 311m36-108v46l382-260 1-375-357-208V68L36 319l3 393 349 204z"}}}]);
+//# sourceMappingURL=lime.84187e30.js.map

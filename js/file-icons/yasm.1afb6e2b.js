@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/yasm"],{"3a0d":function(o){o.exports={viewBox:"0 0 924 1024",font:"file-icons",code:"ea73",ref:"yasm",path:"M920 924l-80-127q0-1-1.5-2.5L836 792 814 58q-6-94-160-44T334 169Q168 274 58 392-51 509 33 550l661 330 83 133q9 16 36 10t54.5-23q27.5-17 45.5-38 18-22 7-38z"}}}]);
+//# sourceMappingURL=yasm.1afb6e2b.js.map

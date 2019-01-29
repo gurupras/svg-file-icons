@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/aws"],{"9c71":function(l){l.exports={viewBox:"0 0 1024 1024",font:"mfixx",code:"f103",ref:"aws",path:"M519 489l-164 70 152 65 176-65-25-11q-26-11-56.5-24T545 500l-26-11m-249 87v317l237 106V670l-237-94m496 1l-217 82v310l217-88V577M249 37L85 107l152 65 176-65-164-70M0 442l237 105V218L0 125v317m496-317l-217 82v310l217-88V125M777 25L614 95l151 65 176-65-164-70m-249 88v317l237 105V206l-237-93m496 0l-217 82v311l217-88V113z"}}}]);
+//# sourceMappingURL=aws.7bccaed4.js.map

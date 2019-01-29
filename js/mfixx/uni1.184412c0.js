@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/uni1"],{a393:function(n){n.exports={viewBox:"0 0 1024 1024",font:"mfixx",code:"1",ref:"uni1",path:"M0 960z"}}}]);
+//# sourceMappingURL=uni1.184412c0.js.map

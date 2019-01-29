@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/keynote"],{"60ea":function(e){e.exports={viewBox:"0 0 868 1024",font:"file-icons",code:"e9e5",ref:"keynote",path:"M0 541h867q-1 18-10.5 28.5T829 583H30q-14-4-22-14t-8-28M414 5q-16-5-61-5t-57 10q-11 10-17 15t-22 8h-84q-24 0-41 17t-17 41v54H87q-19-1-32.5 13.5T41 188L24 513h818l-15-326q-1-17-15.5-30T780 145H141V89q0-14 9.5-23.5T173 56h94q17 0 20.5 14.5T316 85h85q7 0 14.5-2t13.5-7q13-10 11-37T414 5m59 952V601h-91v356H214v67h426v-67H473z"}}}]);
+//# sourceMappingURL=keynote.abca3a1d.js.map

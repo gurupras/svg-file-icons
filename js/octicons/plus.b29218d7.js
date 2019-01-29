@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["octicons/plus"],{e006:function(o){o.exports={viewBox:"0 0 12 16",font:"octicons",ref:"plus",path:"M12 9H7v5H5V9H0V7h5V2h2v5h5v2z"}}}]);
+//# sourceMappingURL=plus.b29218d7.js.map

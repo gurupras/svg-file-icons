@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/solidity"],{fd61:function(o){o.exports={viewBox:"0 0 660 1024",font:"file-icons",code:"ea86",ref:"solidity",path:"M165 585L0 293 165 0h329l166 293H329L165 585m495 146L495 439 331 731H0l166 293h329l165-293z"}}}]);
+//# sourceMappingURL=solidity.bd60efd7.js.map

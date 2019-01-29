@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/numpy"],{"333d":function(l){l.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e99d",ref:"numpy",path:"M494 492l-194-22V276l194 22v194m36 234l194 22V554l-194-22v194m-267-29V503L51 480v194l212 23m498-407l212 24V101L761 78v212m-498-18L51 249v194l212 23V272m498 516v213l212 23V812l-212-24M263 236V23L51 0v212l212 24m0 498L51 710v213l212 23V734m710-153l-212-23v194l212 23V581M761 327v194l212 23V350l-212-23z"}}}]);
+//# sourceMappingURL=numpy.fd52067a.js.map

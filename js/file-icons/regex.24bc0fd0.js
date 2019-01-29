@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/regex"],{bdfe:function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"2a",ref:"regex",path:"M619 698V462L424 581l-68-119 203-112-203-113 69-117 194 119V1h139v238l197-119 69 117-204 113 204 112-70 120-196-120v236H619M290 878q0-42-20-75-21-33-52.5-51T147 732q-38-1-75 20-36 21-54 55T0 877.5Q0 914 18 948t54 55q37 21 75 20 39-2 70.5-20t52.5-51q20-33 20-74z"}}}]);
+//# sourceMappingURL=regex.24bc0fd0.js.map

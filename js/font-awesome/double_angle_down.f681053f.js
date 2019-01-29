@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/double_angle_down"],{f742:function(o){o.exports={viewBox:"0 0 1152 1792",font:"font-awesome",code:"f103",ref:"double_angle_down",path:"M1065 841q10 10 10 23t-10 23l-466 466q-10 10-23 10t-23-10L87 887q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l393 393 393-393q10-10 23-10t23 10l50 50m0-384q10 10 10 23t-10 23L599 969q-10 10-23 10t-23-10L87 503q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l393 393 393-393q10-10 23-10t23 10l50 50z"}}}]);
+//# sourceMappingURL=double_angle_down.f681053f.js.map

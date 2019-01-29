@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/snapsvg"],{"944e":function(o){o.exports={viewBox:"0 0 618 1024",font:"devopicons",code:"e65e",ref:"snapsvg",path:"M310 723l147 72-150 74-149-72 152-74m306 151V719l-153-75 153-75V150L307 0 0 150v419l153 75L0 720v154l308 150 308-150M477 237v245l-171 83-167-83V237l169-82 169 82z"}}}]);
+//# sourceMappingURL=snapsvg.ee364c5c.js.map

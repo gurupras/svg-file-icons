@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/drone"],{dad7:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea3d",ref:"drone",path:"M1024 545H714q-22-87-81-128t-124.5-39Q443 380 386 423t-76 122H0q10-222 161-341Q311 86 494 81t342 108q160 114 188 356m-905 72h191q20 79 76 121 56 43 120.5 45T630 745q59-41 84-128h191q-36 154-142 238t-229.5 88.5Q410 948 293 869q-116-79-174-252m524-36q0-75-65.5-113T446 468q-65 38-65 113.5T446 695q66 37 131.5-.5T643 581z"}}}]);
+//# sourceMappingURL=drone.f3c73cc1.js.map

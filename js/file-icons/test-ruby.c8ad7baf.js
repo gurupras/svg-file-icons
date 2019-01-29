@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/test-ruby"],{5173:function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea68",ref:"test-ruby",path:"M904 669L704 869V589h120l80 80m120 0L704 989 384 669l160-160h320l160 160M704 929l260-260-120-120H564L444 669l260 260M535 450h64l-48-74V124h53q29 0 29-27.5T604 69H224q-30 0-30 27.5t30 27.5h52v252L12 814q-19 31-8 49.5T55 882h312v-55H68l264-437V124h163v266l40 60M416 772L316 668l168-179H339L169 772h247z"}}}]);
+//# sourceMappingURL=test-ruby.c8ad7baf.js.map

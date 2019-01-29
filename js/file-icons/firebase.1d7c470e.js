@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/firebase"],{"9ddd":function(e){e.exports={viewBox:"0 0 746 1024",font:"file-icons",code:"ea7f",ref:"firebase",path:"M647 229q-2-14-13.5-18.5T612 216L487 340l-95-182q-7-12-20-13t-20 12l-54 103L167 13q-8-16-23.5-13T125 20L0 822l286-540 93 172L0 827l336 188q16 9 34.5 9t34.5-9l339-189-97-597z"}}}]);
+//# sourceMappingURL=firebase.1d7c470e.js.map

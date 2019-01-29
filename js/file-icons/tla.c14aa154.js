@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/tla"],{"0d90":function(h){h.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"eab2",ref:"tla",path:"M753 43L587 206H0v775l920-1V411l104-104L753 43M75 260h462l-46 46 22 21H75v-67m772 670H75V395h508l179 174 85-85v446m-60-600v138h-63V330H590v-63h133V138h64v129h133v63H787M289 573V468h347v105h-53v-49h-80v287h55v63H381v-63h56V524h-98v49h-50z"}}}]);
+//# sourceMappingURL=tla.c14aa154.js.map

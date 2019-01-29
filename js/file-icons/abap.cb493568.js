@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/abap"],{"5c0c":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e92b",ref:"abap",path:"M243 772L85 968l-39 1V24L876 0v15L762 134l-519 17v621m735-625l-2 772-655 105V174l657-27M579 487q19 10 42 14.5t49 .5q31-4 53-13.5t37-19.5l-87-249-94 267m302 327l-90-256q-57 25-121.5 33T544 584L438 882l45.5 33.5Q529 949 670 919q142-30 176.5-67.5L881 814z"}}}]);
+//# sourceMappingURL=abap.cb493568.js.map

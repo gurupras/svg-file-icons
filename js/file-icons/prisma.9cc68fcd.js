@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/prisma"],{a87b:function(o){o.exports={viewBox:"0 0 848 1024",font:"file-icons",code:"eac5",ref:"prisma",path:"M763 812L303 948q-10 3-18-4.5t-6-18.5l164-785q2-11 13.5-12.5T473 136l304 645q4 10 0 19t-14 12m79-32L490 33Q472 0 439 0t-49 27L9 645q-9 15-9 31.5T9 707l187 289q14 17 29 24.5t38 .5l542-160q27-8 38-31.5t-1-49.5z"}}}]);
+//# sourceMappingURL=prisma.9cc68fcd.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/erlang"],{"0d84":function(n){n.exports={viewBox:"0 0 1024 1024",font:"mfixx",code:"f114",ref:"erlang",path:"M377 335h270l-13.5-66.5Q620 202 511 202q-52 0-93 41t-41 92M138 188H0v648h158l-38-51q-37-52-64-140T37 439q9-118 101-251m886 0v648H894l41.5-51q41.5-51 49.5-79l-154-76-14 25q-14 25-43.5 56T698 768q-46 27-110 30-69 3-113-32-44-34-68.5-84.5T374 577q-8-55-6-92h594q2-2 3-35 2-33-3.5-79T940 275q-16-50-49-87h133z"}}}]);
+//# sourceMappingURL=erlang.fa4e245f.js.map

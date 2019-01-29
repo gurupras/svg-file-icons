@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/x11"],{8363:function(o){o.exports={viewBox:"0 0 1024 1024",font:"mfixx",code:"f16e",ref:"x11",path:"M0 1024l392-498L0 0h254l314 426-478 598H0M932 0h92L632 494l392 530H770L454 602 932 0z"}}}]);
+//# sourceMappingURL=x11.72ecb7d2.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/html5-3deffects"],{b753:function(e){e.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e635",ref:"html5-3deffects",path:"M555 49l-263 85 570 184v364L482 805 162 701V345l310 100 263-85-571-185L0 229v590l482 156 542-175V201L555 49z"}}}]);
+//# sourceMappingURL=html5-3deffects.1686c7a4.js.map

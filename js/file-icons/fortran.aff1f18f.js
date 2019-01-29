@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/fortran"],{"2ae2":function(o){o.exports={viewBox:"0 0 945 1024",font:"file-icons",code:"e90a",ref:"fortran",path:"M0 907h84q34 0 62.5-21t28.5-70V203q0-62-24-76.5T63 112H5V0h940v407H835q0-73-9-127.5T796 185q-23-44-71.5-58.5T593 112H370v324h43q95 0 127.5-37T571 235h99v526h-99q-7-126-32.5-177.5T394 534h-27v282q0 62 28 76.5t92 14.5h61v112H0V907z"}}}]);
+//# sourceMappingURL=fortran.aff1f18f.js.map

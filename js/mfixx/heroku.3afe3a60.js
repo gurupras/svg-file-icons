@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/heroku"],{"9bf0":function(o){o.exports={viewBox:"0 0 662 1024",font:"mfixx",code:"f122",ref:"heroku",path:"M3 1023V704l159 159-25 25q-24 25-54 55l-55 55-25 25m369-822q23-27 44-62 20-35 36-66t26-52l9-21h174l-26 56.5Q609 113 540 201H372m78 823V464l-42.5-43.5Q365 377 1 519L0 0h159v333l69-23q69-22 152.5-26T533 315q70 35 70 151v558H450z"}}}]);
+//# sourceMappingURL=heroku.3afe3a60.js.map

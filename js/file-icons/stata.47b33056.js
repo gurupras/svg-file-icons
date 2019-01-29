@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/stata"],{"7da9":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9a3",ref:"stata",path:"M299 1024H0V725h299v299m0-661H0v298h299V363m362 362H363v299h298V725m0-362H363v298h298V363m0-363H363v299h298V0m363 0H725v299h299V0m0 363H725v298h299V363z"}}}]);
+//# sourceMappingURL=stata.47b33056.js.map

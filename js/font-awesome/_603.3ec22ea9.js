@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/_603"],{e9fa:function(o){o.exports={viewBox:"0 0 2304 1792",font:"font-awesome",code:"f283",ref:"_603",path:"M0 1504V896h2304v608q0 66-47 113t-113 47H160q-66 0-113-47T0 1504m640-224v128h384v-128H640m-384 0v128h256v-128H256M2144 128q66 0 113 47t47 113v224H0V288q0-66 47-113t113-47h1984z"}}}]);
+//# sourceMappingURL=_603.3ec22ea9.js.map

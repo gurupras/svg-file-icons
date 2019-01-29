@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/akka"],{"0914":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea0e",ref:"akka",path:"M995 643q29 48 29 104t-19.5 97Q985 885 949 898q-35 14-78-23-83-70-186-87-103-16-193-7t-152 28q-62 19-64 20 84-98 188-168 103-70 204-99.5T856 549q87 18 139 94m22-35L793 157q-24-38-74.5-34T634 156L43 651Q2 686 0 739t35 90q33 33 90.5 36T233 813q111-130 230-204t227-97q108-23 195 3 86 25 132 93z"}}}]);
+//# sourceMappingURL=akka.f27c469c.js.map

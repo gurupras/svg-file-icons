@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/coffee-bean"],{a2c2:function(e){e.exports={viewBox:"0 0 872 1024",font:"mfixx",code:"f10a",ref:"coffee-bean",path:"M392 0q-83-3-154 37-72 40-125 110T30 312Q0 406 0 512q0 104 29 195 28 92 77.5 161T222 979q67 41 143 45 38-178 28-272t-27.5-183Q348 480 344 358q-3-123 48-358m87 1024q86 1 158-39t124-109.5Q813 806 843 712q29-94 29-200 0-104-29-196-28-91-77.5-160T649 45Q582 4 506 0q-52 224-50 342 2 119 18 209t27 189q11 100-22 284z"}}}]);
+//# sourceMappingURL=coffee-bean.be5042d3.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/lean"],{"232c":function(n){n.exports={viewBox:"0 0 630 1024",font:"file-icons",code:"4c",ref:"lean",path:"M148 876h482v148H0V0h148v876z"}}}]);
+//# sourceMappingURL=lean.4559426c.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/js-shield"],{eee3:function(e){e.exports={viewBox:"0 0 904 1024",font:"devopicons",code:"e64f",ref:"js-shield",path:"M0 0l82 922 369 102 370-102L903 0H0m458 236l-117 3-17 177h387l-31 347-232 64-232-64-16-177h114l8 90 126 34 126-34 13-147H201l37-411h451l22 242H597l-10-117-129-7z"}}}]);
+//# sourceMappingURL=js-shield.8b0119e9.js.map

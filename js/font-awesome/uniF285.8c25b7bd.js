@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/uniF285"],{"0c79":function(o){o.exports={viewBox:"0 0 1792 1792",font:"font-awesome",code:"f285",ref:"uniF285",path:"M1427 709L813 323l92-151h855l-333 537M405 974L221 858V0l1183 743-999 231m1019-135l147 95v858l-532-335 385-618m-37-21l-500 802H32l356-571 999-231z"}}}]);
+//# sourceMappingURL=uniF285.8c25b7bd.js.map

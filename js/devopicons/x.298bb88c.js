@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/x"],{c320:function(o){o.exports={viewBox:"0 0 100 1024",font:"devopicons",code:"78",ref:"x",path:"M20 940h30v40z"}}}]);
+//# sourceMappingURL=x.298bb88c.js.map

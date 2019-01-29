@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/travis"],{b050:function(v){v.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e67e",ref:"travis",path:"M303 259h158v508h-59v87h235v-97h-74V252h168v74h77V175H216v151h87v-67M995 1H32Q20 1 10 9.5T0 30v963q0 12 10 21t22 9h963q12 0 20.5-9t8.5-21V30q0-12-8.5-20.5T995 1M858 376H682v-75h-70v407h75v196H352V718h60V309h-60v67H166V125h692v251z"}}}]);
+//# sourceMappingURL=travis.be03a7a1.js.map

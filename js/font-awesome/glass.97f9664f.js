@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/glass"],{a098:function(o){o.exports={viewBox:"0 0 1792 1792",font:"font-awesome",code:"f000",ref:"glass",path:"M1699 186q0 35-43 78l-632 632v768h320q26 0 45 19t19 45q0 26-19 45t-45 19H448q-26 0-45-19t-19-45q0-26 19-45t45-19h320V896L136 264q-43-43-43-78 0-23 18-36.5t38-17.5q20-4 43-4h1408q23 0 43 4t38 17.5q18 13.5 18 36.5z"}}}]);
+//# sourceMappingURL=glass.97f9664f.js.map

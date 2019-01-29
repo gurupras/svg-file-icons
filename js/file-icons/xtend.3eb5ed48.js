@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/xtend"],{"5b59":function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9c6",ref:"xtend",path:"M14 196h128l253 308-289 329H0v-30l248-295L14 222v-26M343 95H181v23l318 381-336 405v34h154l368-439L343 95m668 29V81H849L627 338l110 116 274-330M725 547h-18l-78 82v22l244 292h151v-45L725 547z"}}}]);
+//# sourceMappingURL=xtend.3eb5ed48.js.map

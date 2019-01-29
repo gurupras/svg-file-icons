@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/rdoc"],{5771:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9b0",ref:"rdoc",path:"M804 843v130H674l130-130m-377 63H67V102h469l201 201v2h67v-69L603 35H0v938h494l-67-67m377-561H364L144 565l440 440 440-440-220-220M254 565l165-165h330l165 165-330 330-330-330m495-110H584v385l275-275-110-110z"}}}]);
+//# sourceMappingURL=rdoc.adc851ef.js.map

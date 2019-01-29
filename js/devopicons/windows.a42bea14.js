@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/windows"],{ce42:function(o){o.exports={viewBox:"0 0 1000 1024",font:"devopicons",code:"e60f",ref:"windows",path:"M402 489H0V144l402-58v403m597 0H456V79L999 0v489m-597 46H0v345l402 58V535m597 0H456v410l543 79V535z"}}}]);
+//# sourceMappingURL=windows.a42bea14.js.map

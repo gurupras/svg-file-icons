@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/red"],{daa7:function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9ad",ref:"red",path:"M179 423l147-50v50l182 82 190-85v-47l145 50v191L511 759 179 616V423m680 154v48L511 777 163 627v-52L12 629v185l500 210 500-210V629l-153-52M584 192v65q-36 15-73.5 16T435 257v-64l-93 36v183l166 75 174-78V229l-98-37M568 24q0-9-17-16.5T510 0q-25 0-42 7.5T451 24v223q10 4 25.5 7t33.5 3q17 0 32.5-3t25.5-7V24z"}}}]);
+//# sourceMappingURL=red.324f9b5c.js.map

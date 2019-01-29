@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/apl"],{b3ef:function(o){o.exports={viewBox:"0 0 962 1024",font:"file-icons",code:"234b",ref:"apl",path:"M961 961L480 0 0 961h417v63h127v-63h417M544 835V408l213 427H544m-340 0l213-427v427H204z"}}}]);
+//# sourceMappingURL=apl.b53e16c9.js.map

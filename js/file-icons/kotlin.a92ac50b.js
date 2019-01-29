@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/kotlin"],{"2b34":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e989",ref:"kotlin",path:"M955 968q-22 24-51 36.5t-60 12.5q-26 0-52-9.5T745 978L396 662q-2-1-3-2.5t-3-2.5l275-152 279 253q46 41 49 102.5T955 968M348 188v-29q0-66-46.5-112.5T189 0Q123 0 76 46.5T29 159v206l319-177M28 854v9q0 67 47 114t114 47q66 0 113.5-47T350 863V676L28 854M978 84q-30-54-89.5-71T775 26L34 436v341l886-491q53-29 70-88.5T978 84z"}}}]);
+//# sourceMappingURL=kotlin.a92ac50b.js.map

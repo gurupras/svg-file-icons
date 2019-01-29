@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/arrow_left"],{4576:function(o){o.exports={viewBox:"0 0 1536 1792",font:"font-awesome",code:"f060",ref:"arrow_left",path:"M1536 896v128q0 53-32.5 90.5T1419 1152H715l293 294q38 36 38 90t-38 90l-75 76q-37 37-90 37-52 0-91-37l-651-652q-37-37-37-90 0-52 37-91l651-650q38-38 91-38 52 0 90 38l75 74q38 38 38 91t-38 91L715 768h704q52 0 84.5 37.5T1536 896z"}}}]);
+//# sourceMappingURL=arrow_left.01efae8a.js.map

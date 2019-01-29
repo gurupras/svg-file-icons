@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/coda"],{db1e:function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e693",ref:"coda",path:"M850 222L90 931l710-753q-81-62-215-51-133 11-262 101.5T100 492Q5 665 2 927q-7 76 13.5 86.5T83 1022q137 4 250-9 113-14 205.5-48T704 876q74-55 132-134 49-65 73-142 24-76 25.5-149T914 317q-21-61-64-95M981 1l43 43-797 750L981 1z"}}}]);
+//# sourceMappingURL=coda.7dc12932.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/twine"],{9727:function(e){e.exports={viewBox:"0 0 896 1024",font:"file-icons",code:"ea5d",ref:"twine",path:"M0 562V0h384v189q-64 28-124 67-59 38-109 85.5T62 444Q23 500 0 562m0 270v192h384V832q0-120 80-185t176-95q96-30 176-35l80-5V128l-140 11q-140 11-308 77T140 425Q0 568 0 832z"}}}]);
+//# sourceMappingURL=twine.5d5a2636.js.map

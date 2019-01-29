@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/dataweave"],{d818:function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea99",ref:"dataweave",path:"M818 108L359 763 107 403l99-142 199 284 107-152-53-76-54 76-199-285L0 403l359 513 459-655 99 142-252 360-46-66-54 76 100 143 359-513-206-295z"}}}]);
+//# sourceMappingURL=dataweave.5ee5d60d.js.map

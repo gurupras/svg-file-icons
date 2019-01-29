@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/shell"],{7604:function(o){o.exports={viewBox:"0 0 1024 1024",font:"mfixx",code:"f158",ref:"shell",path:"M0 79v866h1024V79H0m945 787H79V236h866v630M430 618h271v79H430v-79m-271 0l271-108v-86L159 317v85l163 65-163 65v86z"}}}]);
+//# sourceMappingURL=shell.20031866.js.map

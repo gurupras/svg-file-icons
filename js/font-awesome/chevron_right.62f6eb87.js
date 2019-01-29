@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/chevron_right"],{"3ffa":function(o){o.exports={viewBox:"0 0 1280 1792",font:"font-awesome",code:"f054",ref:"chevron_right",path:"M1107 877l-742 742q-19 19-45 19t-45-19l-166-166q-19-19-19-45t19-45l531-531-531-531q-19-19-19-45t19-45L275 45q19-19 45-19t45 19l742 742q19 19 19 45t-19 45z"}}}]);
+//# sourceMappingURL=chevron_right.62f6eb87.js.map

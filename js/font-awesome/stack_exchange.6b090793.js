@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/stack_exchange"],{4231:function(e){e.exports={viewBox:"0 0 1280 1792",font:"font-awesome",code:"f18d",ref:"stack_exchange",path:"M1259 1253v66q0 85-57.5 144.5T1063 1523h-57l-260 269v-269H217q-81 0-138.5-59.5T21 1319v-66h1238m0-326v255H21V927h1238m0-328v255H21V599h1238m0-140v67H21v-67q0-84 57.5-143.5T217 256h846q81 0 138.5 59.5T1259 459z"}}}]);
+//# sourceMappingURL=stack_exchange.6b090793.js.map

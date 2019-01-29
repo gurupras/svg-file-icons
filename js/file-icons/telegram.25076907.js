@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/telegram"],{"3f54":function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"2708",ref:"telegram",path:"M941 91L34 442Q6 455 .5 475.5T25 509l233 75 562-350q23-16 39.5-13t-4.5 21L372 682l-15 186q10 22 27 24t29-9l134-127 229 172q40 24 62.5 10.5T869 881l151-715q11-53-8.5-74.5T941 91z"}}}]);
+//# sourceMappingURL=telegram.25076907.js.map

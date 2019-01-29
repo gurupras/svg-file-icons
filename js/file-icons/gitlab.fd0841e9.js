@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/gitlab"],{effa:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea3c",ref:"gitlab",path:"M512 984l189-581H323l189 581M59 403L2 580q-4 12 0 24t14 19l496 361L59 403m0 0h264L210 54q-4-14-18.5-14T173 54L59 403m906 0l57 177q4 12 0 24t-14 19L512 984l453-581m0 0H701L814 54q4-14 18.5-14T851 54l114 349z"}}}]);
+//# sourceMappingURL=gitlab.fd0841e9.js.map

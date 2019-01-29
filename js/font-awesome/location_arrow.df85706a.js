@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/location_arrow"],{c553:function(o){o.exports={viewBox:"0 0 1408 1792",font:"font-awesome",code:"f124",ref:"location_arrow",path:"M1401 349L761 1629q-17 35-57 35-5 0-15-2-22-5-35.5-22.5T640 1600v-576H64q-22 0-39.5-13.5T2 975q-5-22 4-42t29-30l1280-640q13-7 29-7 27 0 45 19 15 14 18.5 34.5T1401 349z"}}}]);
+//# sourceMappingURL=location_arrow.df85706a.js.map

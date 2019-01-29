@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["octicons/triangle-down"],{"2dd9":function(o){o.exports={viewBox:"0 0 12 16",font:"octicons",ref:"triangle-down",path:"M0 5l6 6 6-6H0z"}}}]);
+//# sourceMappingURL=triangle-down.dfda9fd6.js.map

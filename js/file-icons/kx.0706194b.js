@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/kx"],{dcc0:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea9b",ref:"kx",path:"M1024 871L817 584l180-250H806l-86 141-87-141H314L164 526V153H0v718h164V614l153 257h296l107-167 110 167h194m-563-61L305 570l165-196 152 211-161 225z"}}}]);
+//# sourceMappingURL=kx.0706194b.js.map

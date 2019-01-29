@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/caret_right"],{be1c5:function(e){e.exports={viewBox:"0 0 640 1792",font:"font-awesome",code:"f0da",ref:"caret_right",path:"M557 851q19 19 19 45t-19 45l-448 448q-19 19-45 19t-45-19q-19-19-19-45V448q0-26 19-45t45-19q26 0 45 19l448 448z"}}}]);
+//# sourceMappingURL=caret_right.5bced9aa.js.map

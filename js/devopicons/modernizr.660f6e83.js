@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/modernizr"],{"5be1":function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e620",ref:"modernizr",path:"M0 758V594h164V430h164V266h163v492H0m532-492q102 0 192 39 89 38 156 105t105 156q39 90 39 192H532V266z"}}}]);
+//# sourceMappingURL=modernizr.660f6e83.js.map

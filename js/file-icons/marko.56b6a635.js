@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/marko"],{"71c6":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e920",ref:"marko",path:"M217 393l-72-118L0 512l171 279h144L144 512l73-119m270-118l-47 77 72 118 47-77-72-118m-316-42l171 279h144L315 233H171m486 0H513l171 279-171 279h144l171-279-171-279m196 0H709l170 279-170 279h144l171-279-171-279z"}}}]);
+//# sourceMappingURL=marko.56b6a635.js.map

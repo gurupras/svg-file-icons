@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/resize_vertical"],{ac3e:function(e){e.exports={viewBox:"0 0 768 1792",font:"font-awesome",code:"f07d",ref:"resize_vertical",path:"M685 275q19 19 19 45t-19 45q-19 19-45 19H512v1024h128q26 0 45 19t19 45q0 26-19 45l-256 256q-19 19-45 19t-45-19L83 1517q-19-19-19-45t19-45q19-19 45-19h128V384H128q-26 0-45-19t-19-45q0-26 19-45L339 19q19-19 45-19t45 19l256 256z"}}}]);
+//# sourceMappingURL=resize_vertical.05ecaaee.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/tumblr"],{3201:function(t){t.exports={viewBox:"0 0 1024 1792",font:"font-awesome",code:"f173",ref:"tumblr",path:"M944 1329l80 237q-23 35-111 66t-177 32q-104 2-190.5-26T403 1564q-56-46-95-106t-55.5-120q-16.5-60-16.5-118V676H68V461q72-26 129-69.5t91-90q34-46.5 58-102t34-99Q390 57 395 12q1-5 4.5-8.5T407 0h244v424h333v252H650v518q0 30 6.5 56t22.5 52.5q16 26.5 49.5 41.5t81.5 14q78-2 134-29z"}}}]);
+//# sourceMappingURL=tumblr.fa74d160.js.map

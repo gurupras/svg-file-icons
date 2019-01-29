@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/trello"],{4291:function(t){t.exports={viewBox:"0 0 1536 1792",font:"font-awesome",code:"f181",ref:"trello",path:"M704 1344V320q0-14-9-23t-23-9H192q-14 0-23 9t-9 23v1024q0 14 9 23t23 9h480q14 0 23-9t9-23m672-384V320q0-14-9-23t-23-9H864q-14 0-23 9t-9 23v640q0 14 9 23t23 9h480q14 0 23-9t9-23m160-768v1408q0 26-19 45t-45 19H64q-26 0-45-19t-19-45V192q0-26 19-45t45-19h1408q26 0 45 19t19 45z"}}}]);
+//# sourceMappingURL=trello.2c499219.js.map

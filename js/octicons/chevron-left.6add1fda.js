@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["octicons/chevron-left"],{"95fb":function(o){o.exports={viewBox:"0 0 8 16",font:"octicons",ref:"chevron-left",path:"M5.5 3L7 4.5 3.25 8 7 11.5 5.5 13l-5-5 5-5z"}}}]);
+//# sourceMappingURL=chevron-left.6add1fda.js.map

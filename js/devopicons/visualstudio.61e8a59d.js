@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/visualstudio"],{a376:function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e60c",ref:"visualstudio",path:"M363 402L103 204 0 255v513l103 51 258-199 412 404 250-100V100L772 0 363 402m406 315L508 509l260-202 1 410M260 512L104 658V365l156 147z"}}}]);
+//# sourceMappingURL=visualstudio.61e8a59d.js.map

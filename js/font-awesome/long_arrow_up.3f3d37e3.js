@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/long_arrow_up"],{a965:function(o){o.exports={viewBox:"0 0 768 1792",font:"font-awesome",code:"f176",ref:"long_arrow_up",path:"M765 493q-9 19-29 19H512v1248q0 14-9 23t-23 9H288q-14 0-23-9t-9-23V512H32q-21 0-29-19t5-35L358 74q10-10 23-10 14 0 24 10l355 384q13 16 5 35z"}}}]);
+//# sourceMappingURL=long_arrow_up.3f3d37e3.js.map

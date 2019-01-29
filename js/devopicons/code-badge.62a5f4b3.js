@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/code-badge"],{"5e3f":function(o){o.exports={viewBox:"0 0 878 1024",font:"devopicons",code:"e6a3",ref:"code-badge",path:"M658 0H0v1024h878V219L658 0m147 951H73V73h512l220 220v658M294 340L153 512l141 172 33-55-95-117 95-117-33-55m62 340h62l99-337h-62l-99 337m228-340l-34 55 96 117-96 117 34 55 141-172-141-172z"}}}]);
+//# sourceMappingURL=code-badge.62a5f4b3.js.map

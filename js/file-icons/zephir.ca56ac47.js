@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/zephir"],{"187e":function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9c7",ref:"zephir",path:"M471 43L0 625l378 356 646-351L471 43m458 572L415 894l83-737 431 458M436 179l-78 702L80 619l356-440z"}}}]);
+//# sourceMappingURL=zephir.ca56ac47.js.map

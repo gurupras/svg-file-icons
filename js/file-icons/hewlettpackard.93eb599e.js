@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/hewlettpackard"],{e581:function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"33cb",ref:"hewlettpackard",path:"M499 1024l104-287h144q19 0 37-12.5t25-30.5l114-313q14-38-5.5-65.5T858 288H657l-262 723q-184-43-285-179Q8 695 .5 535.5T84 229Q175 82 375 18L113 737h109l139-381h82L304 737h108l130-356q14-38-5-65.5T477 288h-92L490 0q266 2 399 161 134 158 135 348.5T894 860q-132 160-395 164m243-668L628 669h81l115-313h-82z"}}}]);
+//# sourceMappingURL=hewlettpackard.93eb599e.js.map

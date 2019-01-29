@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/_439"],{5125:function(o){o.exports={viewBox:"0 0 1536 1792",font:"font-awesome",code:"f1d4",ref:"_439",path:"M809 1004l266-499H963L806 817q-24 48-44 92l-42-92-155-312H445l263 493v324h101v-318m727-588v960q0 119-84.5 203.5T1248 1664H288q-119 0-203.5-84.5T0 1376V416q0-119 84.5-203.5T288 128h960q119 0 203.5 84.5T1536 416z"}}}]);
+//# sourceMappingURL=_439.28f8e170.js.map

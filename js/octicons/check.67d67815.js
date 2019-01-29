@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["octicons/check"],{"919b":function(o){o.exports={viewBox:"0 0 12 16",font:"octicons",ref:"check",path:"M12 5l-8 8-4-4 1.5-1.5L4 10l6.5-6.5L12 5z"}}}]);
+//# sourceMappingURL=check.67d67815.js.map

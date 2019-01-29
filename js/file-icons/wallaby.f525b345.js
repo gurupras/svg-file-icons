@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/wallaby"],{"12d7":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"231f",ref:"wallaby",path:"M0 512h512V0h512v1024H0V512z"}}}]);
+//# sourceMappingURL=wallaby.f525b345.js.map

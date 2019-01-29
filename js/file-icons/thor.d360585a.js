@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/thor"],{"2bdc":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9d8",ref:"thor",path:"M411 377L0 371l617 193-64-144 117 5-46 447h338l19-177H872l26-260h110l16-176H914l11-107H695l-11 111H367l44 114z"}}}]);
+//# sourceMappingURL=thor.d360585a.js.map

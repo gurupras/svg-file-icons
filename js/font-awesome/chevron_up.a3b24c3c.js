@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/chevron_up"],{"30a5":function(o){o.exports={viewBox:"0 0 1792 1792",font:"font-awesome",code:"f077",ref:"chevron_up",path:"M1683 1331l-166 165q-19 19-45 19t-45-19L896 965l-531 531q-19 19-45 19t-45-19l-166-165q-19-19-19-45.5t19-45.5l742-741q19-19 45-19t45 19l742 741q19 19 19 45.5t-19 45.5z"}}}]);
+//# sourceMappingURL=chevron_up.a3b24c3c.js.map

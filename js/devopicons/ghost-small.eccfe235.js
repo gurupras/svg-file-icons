@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/ghost-small"],{"5c54":function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e614",ref:"ghost-small",path:"M0 201h609V7H0v194m830 0h194V7H830v194M0 616h1024V421H0v195m0 401h402V836H0v181m622 0h402V836H622v181z"}}}]);
+//# sourceMappingURL=ghost-small.eccfe235.js.map

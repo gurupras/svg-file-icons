@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/stackoverflow"],{1135:function(o){o.exports={viewBox:"0 0 802 1024",font:"devopicons",code:"e610",ref:"stackoverflow",path:"M0 1024h666V600l-71 8-7 352H64V601H0v423m115-141h410v-77H115v77m2-151l408 44 8-76-407-45-9 77m25-182l396 106 20-74-396-106-20 74m74-215l347 218 40-65-346-218-41 65m185-207l232 337 63-43L464 84l-63 44M651 14l75 403 75-14L726 0l-75 14z"}}}]);
+//# sourceMappingURL=stackoverflow.a1a6aa8c.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/backbone"],{b8c1:function(o){o.exports={viewBox:"0 0 826 1024",font:"devopicons",code:"e652",ref:"backbone",path:"M412 236L0 1v1024l412-235 412 235V1L412 236M207 513l205-117 206 117-206 117-32-19q-32-18-70.5-40T239 531l-32-18m-71-287l147 83-147 84V226m0 406l136 78-136 77v-77.5V632m416 78l136-78v155l-136-77m-11-401l147-83v167l-23-13q-23-13-50.5-29T564 322l-23-13z"}}}]);
+//# sourceMappingURL=backbone.22936eaf.js.map

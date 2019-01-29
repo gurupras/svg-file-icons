@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/mirah"],{"831c":function(o){o.exports={viewBox:"0 0 622 1024",font:"file-icons",code:"e995",ref:"mirah",path:"M0 658l19-45q20-46 43.5-131.5T105 274q19-122 19-274l47 10q47 10 43 76-15 243 33 340t111.5 80.5Q422 490 477 376q55-113 54-291l11-43.5Q553-2 620 0v1024q-32 0-47.5-63.5T548 804q-6-63-9-134-3-70-4.5-138.5T532 402q-1-61-1-106-33 177-87 268t-111.5 89Q275 651 221 552q-53-98-84-300l1 64q1 64-9.5 140.5T89 596q-29 64-89 62z"}}}]);
+//# sourceMappingURL=mirah.2cc668ed.js.map

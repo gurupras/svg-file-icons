@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/html5"],{eaed:function(o){o.exports={viewBox:"0 0 902 1024",font:"devopicons",code:"e636",ref:"html5",path:"M0 0l82 922 368 102 369-103L902 0H0m198 530l-30-342h565l-10 113H291l10 116h412l-31 347-232 64-231-64-16-177h114l8 90 125 34 126-34 13-147H198z"}}}]);
+//# sourceMappingURL=html5.e8b5c54c.js.map

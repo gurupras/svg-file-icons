@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/illustrator"],{d198:function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e6b4",ref:"illustrator",path:"M647 373h91v341h-91V373M358 599h123l33 114h93L472 266H359v44L241 714h84l16.5-57.5L358 599m61-254l45 176h-90l7-27q7-28 15.5-61t15.5-60l7-28M0 11v1002h1024V11H0m947 923H78V90h869v844M740 285q0-26-23.5-39.5T669 245q-23 14-23 40.5t23 40.5q24 13 47.5-.5T740 285z"}}}]);
+//# sourceMappingURL=illustrator.59f2d8f5.js.map

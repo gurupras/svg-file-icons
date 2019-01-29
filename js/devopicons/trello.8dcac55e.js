@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/trello"],{"2de3":function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e65a",ref:"trello",path:"M981 1024H43q-18 0-30.5-12.5T0 981V43q0-18 12.5-30.5T43 0h938q18 0 30.5 12.5T1024 43v938q0 18-12.5 30.5T981 1024M469 812V127q0-9-5.5-14.5T449 107H127q-9 0-14.5 5.5T107 127v685q0 8 5.5 14t14.5 6h322q9 0 14.5-6t5.5-14m448-256V127q0-8-6-14t-14-6H575q-8 0-14 6t-6 14v429q0 8 6 14t14 6h322q8 0 14-6t6-14z"}}}]);
+//# sourceMappingURL=trello.8dcac55e.js.map

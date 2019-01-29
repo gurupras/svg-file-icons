@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/play_sign"],{"0b9d":function(o){o.exports={viewBox:"0 0 1536 1792",font:"font-awesome",code:"f144",ref:"play_sign",path:"M382.5 231l88.25-51.5Q559 128 768 128t385.5 103Q1330 334 1433 510.5T1536 896q0 209-103 385.5T1153.5 1561Q977 1664 768 1664t-385.5-103Q206 1458 103 1281.5T0 896q0-209 103-385.5T382.5 231M1152 951q32-18 32-55t-32-55L608 521q-31-19-64-1-32 19-32 56v640q0 37 32 56 16 8 32 8 17 0 32-9l544-320z"}}}]);
+//# sourceMappingURL=play_sign.a9c1ae37.js.map

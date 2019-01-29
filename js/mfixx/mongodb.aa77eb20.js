@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/mongodb"],{"8c97":function(o){o.exports={viewBox:"0 0 438 1024",font:"mfixx",code:"f135",ref:"mongodb",path:"M232 0q-8 46-45 92-37 45-78.5 104T33 333Q0 412 0 524q0 101 24 169 23 68 54 110t61 62q29 20 41 25 21-22 31-116 10-93 14-222t5-276q0-147 2-276m-20 1002v-55-44q28-12 36-114t7-235.5Q254 420 247 284q-6-137-7-217 9 25 41 70t67 104q35 59 62 131t27 152q0 81-16 141t-41.5 104Q354 813 323 844q-32 31-62 53v100q-2 28-24.5 27t-24.5-22z"}}}]);
+//# sourceMappingURL=mongodb.aa77eb20.js.map

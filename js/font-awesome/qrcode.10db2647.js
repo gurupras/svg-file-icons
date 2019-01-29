@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/qrcode"],{"5f6e":function(h){h.exports={viewBox:"0 0 1408 1792",font:"font-awesome",code:"f029",ref:"qrcode",path:"M384 1152v128H256v-128h128m0-768v128H256V384h128m768 0v128h-128V384h128M128 1407h384v-383H128v383m0-767h384V256H128v384m768 0h384V256H896v384M640 896v640H0V896h640m512 512v128h-128v-128h128m256 0v128h-128v-128h128m0-512v384h-384v-128H896v384H768V896h384v128h128V896h128M640 128v640H0V128h640m768 0v640H768V128h640z"}}}]);
+//# sourceMappingURL=qrcode.10db2647.js.map

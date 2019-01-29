@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/elixir"],{fa7f:function(i){i.exports={viewBox:"0 0 664 1024",font:"mfixx",code:"f113",ref:"elixir",path:"M661 697q-7 97-41 159-34 63-80.5 99.5T443 1007q-49 15-87 17-38 1-90-7-51-8-102-37t-93-84Q28 841 9 750q-23-102 8-223 31-122 88-231.5T232 104Q302 22 358 0q-8 155 42 241 49 86 110 149.5T620 519q49 65 41 178M265 935q51 11 86.5 14.5T392 932q4-16-21-28t-64-21.5q-39-9.5-85-16.5-47-6-86-10 24 25 64 49.5t65 29.5z"}}}]);
+//# sourceMappingURL=elixir.7fde8710.js.map

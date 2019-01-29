@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/yaml-alt1"],{4623:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"59",ref:"yaml-alt1",path:"M0 127h229l283 285 282-285h230L258 897H29l369-370L0 127z"}}}]);
+//# sourceMappingURL=yaml-alt1.7ccbdaab.js.map

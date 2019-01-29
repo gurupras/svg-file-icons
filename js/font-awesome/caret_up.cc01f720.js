@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/caret_up"],{6062:function(o){o.exports={viewBox:"0 0 1024 1792",font:"font-awesome",code:"f0d8",ref:"caret_up",path:"M1005 1171q19 19 19 45t-19 45q-19 19-45 19H64q-26 0-45-19t-19-45q0-26 19-45l448-448q19-19 45-19t45 19l448 448z"}}}]);
+//# sourceMappingURL=caret_up.cc01f720.js.map

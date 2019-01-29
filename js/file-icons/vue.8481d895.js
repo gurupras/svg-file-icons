@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/vue"],{"187b":function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e906",ref:"vue",path:"M1024 69L512 955 0 69h83l429 742L941 69h83M512 270L394 69H214l298 515L810 69H630L512 270z"}}}]);
+//# sourceMappingURL=vue.8481d895.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/cwl"],{adf2:function(o){o.exports={viewBox:"0 0 300 1024",font:"file-icons",code:"29d9",ref:"cwl",path:"M131 545l167-166-157-152L297 68 230 0 4 229l160 151L0 545l161 161L0 870l151 154 66-67-86-88 161-162-161-162z"}}}]);
+//# sourceMappingURL=cwl.47164519.js.map

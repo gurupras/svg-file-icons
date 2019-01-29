@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/credit_card"],{b03b:function(o){o.exports={viewBox:"0 0 1920 1792",font:"font-awesome",code:"f09d",ref:"credit_card",path:"M1760 128q66 0 113 47t47 113v1216q0 66-47 113t-113 47H160q-66 0-113-47T0 1504V288q0-66 47-113t113-47h1600M160 256q-13 0-22.5 9.5T128 288v224h1664V288q0-13-9.5-22.5T1760 256H160m1600 1280q13 0 22.5-9.5t9.5-22.5V896H128v608q0 13 9.5 22.5t22.5 9.5h1600M256 1408v-128h256v128H256m384 0v-128h384v128H640z"}}}]);
+//# sourceMappingURL=credit_card.cafcd682.js.map

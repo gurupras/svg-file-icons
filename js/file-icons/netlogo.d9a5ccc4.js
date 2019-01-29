@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/netlogo"],{"0db8":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e99c",ref:"netlogo",path:"M0 99l1024 394L7 925l205-412L0 99z"}}}]);
+//# sourceMappingURL=netlogo.d9a5ccc4.js.map

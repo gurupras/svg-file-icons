@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/uni20"],{5778:function(o){o.exports={viewBox:"0 0 512 1024",font:"devopicons",code:"20",ref:"uni20",path:"M0 960z"}}}]);
+//# sourceMappingURL=uni20.bac0b3ff.js.map

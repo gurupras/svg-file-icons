@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/wdl"],{"9f43":function(l){l.exports={viewBox:"0 0 712 1024",font:"file-icons",code:"eab1",ref:"wdl",path:"M168 384L2 287V95L169 0l166 97v136l133 83-71 45-90-57-139 80M0 735v192l166 97 167-95V737l-165-97L0 735m545-410l-168 95v143l-122 73 68 47 84-53 136 79 167-95V422l-165-97z"}}}]);
+//# sourceMappingURL=wdl.35bf1042.js.map

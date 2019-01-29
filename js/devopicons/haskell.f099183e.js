@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/haskell"],{"481d":function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e677",ref:"haskell",path:"M0 873l241-361L0 151h181l241 361-241 361H0m241 0l241-361-241-361h181l482 722H723L572 648 422 873H241m582-210l-80-121h281v121H823M703 482l-81-121h402v121H703z"}}}]);
+//# sourceMappingURL=haskell.f099183e.js.map

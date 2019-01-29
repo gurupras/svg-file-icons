@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/suitcase"],{"482d":function(o){o.exports={viewBox:"0 0 1792 1792",font:"font-awesome",code:"f0f2",ref:"suitcase",path:"M640 384h512V256H640v128m-352 0v1280h-64q-92 0-158-66T0 1440V608q0-92 66-158t158-66h64m1120 0v1280H384V384h128V224q0-40 28-68t68-28h576q40 0 68 28t28 68v160h128m384 224v832q0 92-66 158t-158 66h-64V384h64q92 0 158 66t66 158z"}}}]);
+//# sourceMappingURL=suitcase.b5b843bf.js.map

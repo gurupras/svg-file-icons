@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/markdown"],{dc03:function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e63e",ref:"markdown",path:"M950 192H74q-31 0-52.5 21.5T0 266v492q0 31 21.5 52.5T74 832h876q31 0 52.5-21.5T1024 758V266q0-31-21.5-52.5T950 192M576 704H448V512l-96 123-96-123v192H128V320h128l96 128 96-128h128v384m191 32L608 512h96V320h128v192h96L767 736z"}}}]);
+//# sourceMappingURL=markdown.b6c5511b.js.map

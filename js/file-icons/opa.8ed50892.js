@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/opa"],{"77aa":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"2601",ref:"opa",path:"M119 485q4-76 59-110t130 2q33-102 119-150 87-49 180-39.5T775 268q75 70 84 208 80 12 122 63t43 111.5q1 60.5-39 114.5-41 55-126 73H156q-72-15-111-62Q6 728 1 672.5T25 564q30-53 94-79z"}}}]);
+//# sourceMappingURL=opa.8ed50892.js.map

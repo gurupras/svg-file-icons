@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/xpages"],{"9ab3":function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9c5",ref:"xpages",path:"M594 495l376-375H785L500 405 201 120H11l396 377L0 904h185l317-317 332 317h190L594 495z"}}}]);
+//# sourceMappingURL=xpages.daf70f0e.js.map

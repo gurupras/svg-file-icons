@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["octicons/primitive-square"],{"88b0":function(i){i.exports={viewBox:"0 0 8 16",font:"octicons",ref:"primitive-square",path:"M8 12H0V4h8v8z"}}}]);
+//# sourceMappingURL=primitive-square.57ac4833.js.map

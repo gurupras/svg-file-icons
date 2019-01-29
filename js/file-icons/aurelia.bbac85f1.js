@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/aurelia"],{"32fc1":function(l){l.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea48",ref:"aurelia",path:"M576 261l-98-147 95-63 98 147-95 63m334 621l-193 129-191-286 194-129 190 286m-370-27l-147 98-64-96 147-98 64 96m330-359l64 96-95 63-64-96 95-63m-593-35l-147 98-98-147 147-98 98 147m244-163L327 427 137 142 330 13l191 285m-414-79l36 55-54 36-37-54 55-37m197 656l37 55-55 36-37-55 55-36M0 688l856-573 168 239-864 576L0 688z"}}}]);
+//# sourceMappingURL=aurelia.bbac85f1.js.map

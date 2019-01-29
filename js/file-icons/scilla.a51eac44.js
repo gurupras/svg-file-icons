@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/scilla"],{7423:function(l){l.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"eae2",ref:"scilla",path:"M145 186L0 450l223 387h163l-68-117 312-2 38-68 38-68h-73q-73 0-161-.5t-161-.5h-73l-77-132 146-261-162-2m720 392q0 2-24 42-23 41-51 89t-51 88l-23 40h25q26 1 56.5.5t55.5-.5h26l145-262-223-389H638l69 117h-49q-48 1-106.5 1T444 305h-50l-76 137h470l77 136z"}}}]);
+//# sourceMappingURL=scilla.a51eac44.js.map

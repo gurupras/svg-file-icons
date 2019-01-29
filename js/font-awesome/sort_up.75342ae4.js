@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/sort_up"],{f812:function(o){o.exports={viewBox:"0 0 1024 1792",font:"font-awesome",code:"f0de",ref:"sort_up",path:"M1005 659q19 19 19 45t-19 45q-19 19-45 19H64q-26 0-45-19T0 704q0-26 19-45l448-448q19-19 45-19t45 19l448 448z"}}}]);
+//# sourceMappingURL=sort_up.75342ae4.js.map

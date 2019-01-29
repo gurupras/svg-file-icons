@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/tinymce"],{c02c:function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea01",ref:"tinymce",path:"M1024 444l-34-34-69 68L519 78 0 590l34 34 79-78 403 400 508-502M518 145l369 367-371 367-369-367 371-367m123 241H392v-42h249v42m77 103H315v-42h403v42m0 102H315v-42h403v42m-78 101H393v-42h247v42z"}}}]);
+//# sourceMappingURL=tinymce.a24ec5f2.js.map

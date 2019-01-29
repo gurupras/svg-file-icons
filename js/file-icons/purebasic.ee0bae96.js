@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/purebasic"],{6922:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"1b5",ref:"purebasic",path:"M444 0l501 31-208 253-48 9-98 107 195 41-160 185-33 13-163-42-82 86 523 153-188 175-38 13L79 807l194-257-105-26 116-167 33-6 99 17 83-114-206-29L444 0z"}}}]);
+//# sourceMappingURL=purebasic.ee0bae96.js.map

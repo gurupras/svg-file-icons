@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/uno"],{"0ae7":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9b3",ref:"uno",path:"M601 863l423-702H423L0 863h601z"}}}]);
+//# sourceMappingURL=uno.1466c6f6.js.map

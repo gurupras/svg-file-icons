@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/file"],{cdb5:function(o){o.exports={viewBox:"0 0 1536 1792",font:"font-awesome",code:"f15b",ref:"file",path:"M1024 512V40q22 14 36 28l408 408q14 14 28 36h-472m-128 32q0 40 28 68t68 28h544v1056q0 40-28 68t-68 28H96q-40 0-68-28t-28-68V96q0-40 28-68T96 0h800v544z"}}}]);
+//# sourceMappingURL=file.c1a17c6d.js.map

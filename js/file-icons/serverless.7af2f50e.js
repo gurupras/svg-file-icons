@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/serverless"],{"4a13":function(e){e.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"eab8",ref:"serverless",path:"M0 0v213h339L395 0H0m573 0l-56 213h507V0H573M0 405v214h232l56-214H0m467 0l-57 214h614V405H467M0 811v213h125l56-213H0m360 0l-56 213h720V811H360z"}}}]);
+//# sourceMappingURL=serverless.7af2f50e.js.map

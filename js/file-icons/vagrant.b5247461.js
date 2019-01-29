@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/vagrant"],{"7f9a":function(n){n.exports={viewBox:"0 0 1016 1024",font:"file-icons",code:"56",ref:"vagrant",path:"M1014 73L888 0 635 147v69L507 549 380 219v-72L127 0 0 73v75l317 767 190 109 190-110 318-768-1-73z"}}}]);
+//# sourceMappingURL=vagrant.b5247461.js.map

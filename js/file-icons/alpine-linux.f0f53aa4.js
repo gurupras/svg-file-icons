@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/alpine-linux"],{8596:function(n){n.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9ff",ref:"alpine-linux",path:"M768 69H256L0 512l256 443h512l256-443L768 69M294 591l78-78v108q-20-1-39.5-9T294 591m306 21q-36-37-81-82t-95-94L247 612q-21 14-52.5 6.5T135 591l290-287 70 72q35 36 70.5 72t72.5 72q36 36 73 71-36 26-66 29.5t-45-8.5m169 0L627 470l-15 14-66-66 81-81q32 33 64 65l64 64 63 63q32 32 63 62-31 22-62 28.5t-50-7.5z"}}}]);
+//# sourceMappingURL=alpine-linux.f0f53aa4.js.map

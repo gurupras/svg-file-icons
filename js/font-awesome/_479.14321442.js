@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/_479"],{"74b0":function(o){o.exports={viewBox:"0 0 2048 1792",font:"font-awesome",code:"f1fe",ref:"_479",path:"M2048 1536v128H0V128h128v1408h1920M1664 512l256 896H256V832l448-576 576 576 384-320z"}}}]);
+//# sourceMappingURL=_479.14321442.js.map

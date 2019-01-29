@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/_545"],{c9a7:function(o){o.exports={viewBox:"0 0 1280 1792",font:"font-awesome",code:"f245",ref:"_545",path:"M1133 1043q31 30 14 69-17 40-59 40H706l201 476q10 25 0 49t-34 35l-177 75q-25 10-49 0t-35-34l-191-452-312 312q-19 19-45 19-12 0-24-5-40-17-40-59V64Q0 22 40 5q12-5 24-5 27 0 45 19l1024 1024z"}}}]);
+//# sourceMappingURL=_545.ee8b0cbf.js.map

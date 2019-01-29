@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/satellite"],{"629d":function(t){t.exports={viewBox:"0 0 1024 1024",font:"mfixx",code:"f153",ref:"satellite",path:"M673 1006q-101 4-202-31t-188.5-99.5Q195 811 127 723 60 635 27 534q-50-151-10-268Q57 148 156.5 87.5T401 34q145 8 304 107L461 480q-28 41 12 72t73-11l243-338q127 107 186 243t46.5 258Q1009 826 923 912q-86 87-250 94M520 522l280-389q24 6 45-11t21-46q0-33-27-50t-54 0q-21 13-25.5 38t8.5 45L487 498q-11 18 5 28.5t28-4.5z"}}}]);
+//# sourceMappingURL=satellite.6c2c748a.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/playframework-alt"],{c154:function(o){o.exports={viewBox:"0 0 896 1024",font:"mfixx",code:"f149",ref:"playframework-alt",path:"M352 389q-6 28-13 54t-14 49l-32 91-42 1 10-91q3-23 8-49t11-54l29-126 72-1-29 126M237 738q-49 1-38.5-45t58.5-46q47-1 38.5 43.5T237 738M80 1018l786-460q29-18 28.5-49.5T871 459L280 11q-25-19-52-7t-33 42L1 953q-6 39 20.5 59.5T80 1018z"}}}]);
+//# sourceMappingURL=playframework-alt.d0040b95.js.map

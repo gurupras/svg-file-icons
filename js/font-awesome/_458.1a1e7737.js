@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/_458"],{"27b3":function(o){o.exports={viewBox:"0 0 1792 1792",font:"font-awesome",code:"f1e8",ref:"_458",path:"M896 434v434H751V434h145m398 0v434h-145V434h145m0 760l253-254V145H353v1049h326v217l217-217h398M1692 0v1013l-434 434H932l-217 217H498v-217H100V289L209 0h1483z"}}}]);
+//# sourceMappingURL=_458.1a1e7737.js.map

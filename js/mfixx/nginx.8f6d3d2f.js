@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/nginx"],{"2b97":function(n){n.exports={viewBox:"0 0 1024 1024",font:"mfixx",code:"f13a",ref:"nginx",path:"M487 662h232l-57 115H364L216 517l149-270h317l74 152h191L804 58H253L0 518l254 448h526l244-492H487q-45 3-69 30-25 28-26.5 61.5T414 628q23 29 73 34z"}}}]);
+//# sourceMappingURL=nginx.8f6d3d2f.js.map

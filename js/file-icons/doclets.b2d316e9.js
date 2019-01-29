@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/doclets"],{"9c1e":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea3f",ref:"doclets",path:"M569 6H0v925q21-134 66-225 46-90 112.5-146T332 477q87-27 193-34 12 140-23 243-36 102-103.5 171.5T241 966q-91 38-188 52h516q224-24 339-175 114-150 116-326.5T913 187Q800 35 569 6z"}}}]);
+//# sourceMappingURL=doclets.b2d316e9.js.map

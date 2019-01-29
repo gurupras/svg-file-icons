@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/pan"],{a5be:function(v){v.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e9bd",ref:"pan",path:"M977 94H47V0h930v94m0 92H47v94h930v-94M419 372H47v94h372v-94m558 0H605v94h372v-94M419 558H47v94h372v-94m558 0H605v94h372v-94m0 186H47v94h930v-94M419 930H47v94h372v-94m558 0H605v94h372v-94z"}}}]);
+//# sourceMappingURL=pan.3e07b453.js.map

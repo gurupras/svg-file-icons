@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/bing"],{c9bd:function(o){o.exports={viewBox:"0 0 820 1024",font:"devopicons",code:"e600",ref:"bing",path:"M304 265l104 226 155 70L7 853l227-203V72L0 0v861l233 163 586-349V423L304 265z"}}}]);
+//# sourceMappingURL=bing.a212dd84.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/yaml-alt4"],{cb80:function(h){h.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea9c",ref:"yaml-alt4",path:"M472 42L288 317v175H175V317L0 42h127l111 177L350 42h122m189 350H457l-42 100h-90L516 42h92l183 450h-96l-34-100m-34-90l-63-165-69 165h132M175 541v441h95V678l99 204h74l103-211v311h91V541H513L403 741 298 541H175m849 345H791V541h-96v439h329v-94z"}}}]);
+//# sourceMappingURL=yaml-alt4.6e0fcf13.js.map

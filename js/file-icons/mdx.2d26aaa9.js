@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/mdx"],{"46ff":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"eab7",ref:"mdx",path:"M43 301q-18 0-30.5 12.5T0 344v345q0 18 12.5 30.5T43 732h938q18 0 30.5-12.5T1024 689V344q0-18-12.5-30.5T981 301H43m658 82l91 91 91-91 32 32-91 90 89 89-32 32-89-89-89 89-31-32 88-89-91-90 32-32m-206 3h45v170l62-61 32 32-117 114-111-114 33-31 56 58V386m-394 6l121 119 124-118v236h-46V501l-78 75-75-74v127h-46V392z"}}}]);
+//# sourceMappingURL=mdx.2d26aaa9.js.map

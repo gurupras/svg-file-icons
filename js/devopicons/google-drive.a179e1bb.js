@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/google-drive"],{"2d4f":function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e631",ref:"google-drive",path:"M354 699L205 961h669l150-262H354m368-57h302L689 63H387l335 579M487 353L335 92 0 672l152 261 335-580z"}}}]);
+//# sourceMappingURL=google-drive.a179e1bb.js.map

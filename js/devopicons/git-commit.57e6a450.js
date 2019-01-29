@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/git-commit"],{"231a":function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e629",ref:"git-commit",path:"M795 585h229V439H795q-32-112-114-166-82-55-173.5-53.5T336 276q-80 56-107 163H0v146h228q33 113 116 167 82 54 173 52.5T688 748q80-56 107-163m-356 54q-37-21-55-55-18-35-18-72t18-71q18-34 55-55 36-21 75-20t71 19.5q32 18.5 53 51.5 20 33 20 75t-20 75q-21 33-53 51.5T514 659q-39 1-75-20z"}}}]);
+//# sourceMappingURL=git-commit.57e6a450.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/senchatouch"],{fafc:function(o){o.exports={viewBox:"0 0 676 1024",font:"devopicons",code:"e68c",ref:"senchatouch",path:"M417 1024q72-45 76.5-116.5T452 791q-22-22-68-45-46-22-99.5-48T179 642q-53-30-88-66-52-55-76-134-25-79-10-161t76-158Q141 48 259 0q-76 56-74.5 123T233 239q13 13 80.5 44.5T449 348q67 32 119 82t81 112q29 62 30 134t-35 149q-39 83-104.5 129T417 1024z"}}}]);
+//# sourceMappingURL=senchatouch.c06f9668.js.map

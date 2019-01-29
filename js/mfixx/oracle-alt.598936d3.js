@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/oracle-alt"],{bb73:function(t){t.exports={viewBox:"0 0 1024 1024",font:"mfixx",code:"f140",ref:"oracle-alt",path:"M0 67v890h1024V67H0m343 153h338q61 0 114 23t92.5 63q39.5 40 62.5 93t23 113q0 61-23 114t-62.5 92.5Q848 758 795 781t-114 23H343q-61 0-114-23t-92.5-62.5Q97 679 74 626T51 512q0-60 23-113t62.5-93q39.5-40 92.5-63t114-23m7 104q-78 0-133 55t-55 133q0 78 55 133.5T350 701h324q78 0 133-55.5T862 512q0-78-55-133t-133-55H350z"}}}]);
+//# sourceMappingURL=oracle-alt.598936d3.js.map

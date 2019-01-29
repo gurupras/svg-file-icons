@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/xmos"],{ab35:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"58",ref:"xmos",path:"M0 986l374-506L73 38h306l143 240L663 38h308L673 480l351 506H715L520 677 309 986H0z"}}}]);
+//# sourceMappingURL=xmos.ae17d1eb.js.map

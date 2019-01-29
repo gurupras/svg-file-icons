@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["octicons/arrow-down"],{1453:function(o){o.exports={viewBox:"0 0 10 16",font:"octicons",ref:"arrow-down",path:"M7 7V3H3v4H0l5 6 5-6H7z"}}}]);
+//# sourceMappingURL=arrow-down.d026e642.js.map

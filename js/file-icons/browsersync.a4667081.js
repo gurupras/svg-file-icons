@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/browsersync"],{"3b88":function(o){o.exports={viewBox:"0 0 720 1024",font:"file-icons",code:"62",ref:"browsersync",path:"M319 2L9 157q-4 1-6.5 5T0 170v684q0 4 2 8t7 5l310 155q7 4 14-.5t7-12.5V15q0-8-7-12.5T319 2m82 1020l310-155q4-1 6.5-5t2.5-8V521q0-4-2-7.5t-7-5.5L401 353q-7-4-14 .5t-7 12.5v643q0 8 7 12.5t14 .5z"}}}]);
+//# sourceMappingURL=browsersync.a4667081.js.map

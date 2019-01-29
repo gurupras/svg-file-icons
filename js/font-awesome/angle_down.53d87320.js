@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/angle_down"],{cce6:function(o){o.exports={viewBox:"0 0 1152 1792",font:"font-awesome",code:"f107",ref:"angle_down",path:"M1065 713q10 10 10 23t-10 23l-466 466q-10 10-23 10t-23-10L87 759q-10-10-10-23t10-23l50-50q10-10 23-10t23 10l393 393 393-393q10-10 23-10t23 10l50 50z"}}}]);
+//# sourceMappingURL=angle_down.53d87320.js.map

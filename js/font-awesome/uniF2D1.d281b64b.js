@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/uniF2D1"],{"302db":function(o){o.exports={viewBox:"0 0 1792 1792",font:"font-awesome",code:"f2d1",ref:"uniF2D1",path:"M1792 1312v192q0 66-47 113t-113 47H160q-66 0-113-47T0 1504v-192q0-66 47-113t113-47h1472q66 0 113 47t47 113z"}}}]);
+//# sourceMappingURL=uniF2D1.d281b64b.js.map

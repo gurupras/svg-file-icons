@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/markdownlint"],{cb92:function(n){n.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"f0c9",ref:"markdownlint",path:"M684 572l262-262 78 71-342 340-207-209 77-73 132 133M553 370L405 511l226 228H52q-21 0-36.5-15.5T0 686V337q0-21 15.5-36.5T52 285h582q21 0 36 15.5t14 36.5v165L553 370m-161 0h-92l-69 92-69-92H70v276h92V508l69 88 69-88v138h92V370z"}}}]);
+//# sourceMappingURL=markdownlint.4c8c161f.js.map

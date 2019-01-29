@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/html5-connectivity"],{"99d5":function(o){o.exports={viewBox:"0 0 1024 1024",font:"devopicons",code:"e634",ref:"html5-connectivity",path:"M770 706h127V401L754 258l-90 90 106 106v252m127 64H454L348 664l45-45 87 88h180L483 529l45-45 178 177V481l-88-87 45-45-220-221H0l127 127h263l93 93-136 136-93-93v-72H127v124l220 220-90 90 144 143h623L897 770z"}}}]);
+//# sourceMappingURL=html5-connectivity.8d108773.js.map

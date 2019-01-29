@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["mfixx/playframework"],{b1cf:function(o){o.exports={viewBox:"0 0 896 1024",font:"mfixx",code:"f148",ref:"playframework",path:"M80 1018l786-460q29-18 28.5-49.5T871 459L280 11q-25-19-52-7t-33 42L1 953q-6 39 20.5 59.5T80 1018z"}}}]);
+//# sourceMappingURL=playframework.dc483837.js.map

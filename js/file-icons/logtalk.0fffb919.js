@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/logtalk"],{a802:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e98d",ref:"logtalk",path:"M152 844H0V181h152v46H66v564h86v53m718-664v46h88v565h-88v53h154V180H870M723 607v-33l-381 2v-79l381-2v-33l-381 2V319h-34v425h34V609l381-2z"}}}]);
+//# sourceMappingURL=logtalk.0fffb919.js.map

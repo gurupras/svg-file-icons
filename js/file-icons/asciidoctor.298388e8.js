@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/asciidoctor"],{dd9a:function(o){o.exports={viewBox:"0 0 992 1024",font:"file-icons",code:"eac7",ref:"asciidoctor",path:"M44 673q-35-1-35 34t35 34h191l-97 235q-14 32 18 45t44-19l108-261h129q34 1 34-34t-34-34H44M564 0q-9 0-17.5 5.5T534 21L330 511H35q-35 0-35 34.5T35 579h474q34 1 34-33.5T509 511H404l161-387 361 878q12 32 44 19t19-45L597 22q-5-12-14-17t-19-5z"}}}]);
+//# sourceMappingURL=asciidoctor.298388e8.js.map

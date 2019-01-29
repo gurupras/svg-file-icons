@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/polymer"],{"2e9b":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea2b",ref:"polymer",path:"M824 156H646L294 718 178 512l200-356H200L0 512l200 356h178l352-562 116 206-200 356h178l200-356-200-356z"}}}]);
+//# sourceMappingURL=polymer.a13582d8.js.map

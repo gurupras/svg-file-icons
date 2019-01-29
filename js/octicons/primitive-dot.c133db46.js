@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["octicons/primitive-dot"],{8257:function(o){o.exports={viewBox:"0 0 8 16",font:"octicons",ref:"primitive-dot",path:"M0 8c0-2.2 1.8-4 4-4s4 1.8 4 4-1.8 4-4 4-4-1.8-4-4z"}}}]);
+//# sourceMappingURL=primitive-dot.c133db46.js.map

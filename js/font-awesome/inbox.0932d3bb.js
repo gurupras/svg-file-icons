@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/inbox"],{c5f0:function(o){o.exports={viewBox:"0 0 1536 1792",font:"font-awesome",code:"f01c",ref:"inbox",path:"M1023 960h316q-1-3-2.5-8.5t-2.5-7.5l-212-496H414L202 944q-1 3-2.5 8.5T197 960h316l95 192h320l95-192m513 30v482q0 26-19 45t-45 19H64q-26 0-45-19t-19-45V990q0-62 25-123l238-552q10-25 36.5-42t52.5-17h832q26 0 52.5 17t36.5 42l238 552q25 61 25 123z"}}}]);
+//# sourceMappingURL=inbox.0932d3bb.js.map

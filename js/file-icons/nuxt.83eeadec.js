@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/nuxt"],{"2f55":function(n){n.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"eaca",ref:"nuxt",path:"M401 163L0 861h262l279-479-140-219m269 80l-78 139 277 479h155L670 243M567 425L312 861h507L567 425z"}}}]);
+//# sourceMappingURL=nuxt.83eeadec.js.map

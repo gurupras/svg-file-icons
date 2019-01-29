@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/pogo"],{"6a4e":function(h){h.exports={viewBox:"0 0 572 1024",font:"file-icons",code:"e9b8",ref:"pogo",path:"M570 0v58H380V37h-52v660h-86V37h-51v21H0V0h191v16h189V0h190M381 717H190v-41H12v43h34v41h210v200h-16v64h91v-64h-17V760h210v-41h35v-43H381v41z"}}}]);
+//# sourceMappingURL=pogo.99047fe9.js.map

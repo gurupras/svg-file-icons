@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/rexx"],{"8d58":function(e){e.exports={viewBox:"0 0 706 1024",font:"file-icons",code:"ea16",ref:"rexx",path:"M0 1024V0h376l282 402-256 172 304 450H485L254 692V470l158-103-158-211h-78v868H0z"}}}]);
+//# sourceMappingURL=rexx.259edd8d.js.map

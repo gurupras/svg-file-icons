@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/kos"],{de1f:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"6b",ref:"kos",path:"M299 555H105q-56-2-81-23T0 496q1-14 29-32.5t88-24.5h331v62H299v54m149-54h148v-62h51l142-143h210L827 502l197 226H811L643 559H449l-1-58m-152-89V296h299l1 143H448v-27H296m292 176v140H299V555h151v33h138z"}}}]);
+//# sourceMappingURL=kos.b3affb3e.js.map

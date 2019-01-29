@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/krl"],{1896:function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e988",ref:"krl",path:"M0 0v1024h1024V0H0m22 989l341-506L41 34h192l320 446-343 509H22m789 0L532 575l67-95-67-88L788 34h192L658 483l341 506H811z"}}}]);
+//# sourceMappingURL=krl.91f59cc7.js.map

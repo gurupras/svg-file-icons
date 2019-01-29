@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["font-awesome/beer"],{3803:function(e){e.exports={viewBox:"0 0 1664 1792",font:"font-awesome",code:"f0fc",ref:"beer",path:"M640 896V512H384v256q0 53 37.5 90.5T512 896h128m1024 448v192H512v-192l128-192H512q-159 0-271.5-112.5T128 768V448l-64-64 32-128h480l32-128h960l32 192-64 32v800l128 192z"}}}]);
+//# sourceMappingURL=beer.902b6c6c.js.map

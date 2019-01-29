@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["devopicons/uikit"],{fbe8:function(o){o.exports={viewBox:"0 0 886 1024",font:"devopicons",code:"e673",ref:"uikit",path:"M521 243l191 104v295L434 798 174 642V399L0 312v452l434 260 451-260V243L677 139l-25 16q-24 16-53.5 35.5T545 227l-24 16m69-156L417 0 260 104l174 87 24-16q25-17 54-36.5t54-35.5l24-16z"}}}]);
+//# sourceMappingURL=uikit.fbc44779.js.map

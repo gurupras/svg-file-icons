@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/mapbox"],{"3e5d":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"e941",ref:"mapbox",path:"M60 0v1024h151V181l301 512 301-512v843h151V0H843q-45 0-79.5 13T709 60L512 395 315 60q-20-34-54.5-47T181 0H60z"}}}]);
+//# sourceMappingURL=mapbox.89844cb6.js.map

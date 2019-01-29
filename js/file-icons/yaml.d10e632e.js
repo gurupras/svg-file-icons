@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/yaml"],{"5c19":function(o){o.exports={viewBox:"0 0 914 1024",font:"file-icons",code:"79",ref:"yaml",path:"M684 0h230L230 1024H0l342-512L0 0h230l227 340L684 0z"}}}]);
+//# sourceMappingURL=yaml.d10e632e.js.map

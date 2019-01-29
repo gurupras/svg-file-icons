@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/floobits"],{"828d":function(o){o.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ead5",ref:"floobits",path:"M873 656q-51-29-51-87.5t51-87.5q50-29 100.5.5T1024 569q0 57-50.5 86.5T873 656M50 534Q0 505 0 447t50-87q51-29 101.5 0t50.5 87q0 58-50.5 87T50 534m394-239h195l244 555H687L444 295M151 174h196l243 554H395L151 174z"}}}]);
+//# sourceMappingURL=floobits.f526e178.js.map

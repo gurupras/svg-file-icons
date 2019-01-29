@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["file-icons/yaml-alt2"],{ac26:function(h){h.exports={viewBox:"0 0 1024 1024",font:"file-icons",code:"ea9e",ref:"yaml-alt2",path:"M0 282h138l169 170 170-170h138L155 742H18l221-222L0 282m196 460h80l161-161v161h58V500h-58L196 742m323 0h52V588l80 81 80-81v154h52V500h-51l-81 80-80-80h-52v242m336-46V500h-45v242h214l-44-46H855z"}}}]);
+//# sourceMappingURL=yaml-alt2.e83ae8e7.js.map
